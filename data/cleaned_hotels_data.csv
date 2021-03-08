@@ -1,0 +1,1218 @@
+,id,name,starRating,guestReviews,ratePlan,neighbourhood,enumNeighbourhoods
+0,638772320,GRIDS TOKYO ASAKUSA-BASHI HOTEL&HOSTEL,2.0,8.8,10,Asakusabashi,0
+1,1167788384,Grids Tokyo Ueno Hotel & Hostel,2.0,9.0,12,Ueno,1
+2,612111104,Imano Tokyo Ginza Hostel,2.0,8.8,13,Chuo,2
+3,626048,Palette Takashimadaira - Hostel,1.5,6.2,14,Itabashi,3
+4,444105,Khaosan World Asakusa RYOKAN & HOSTEL,2.0,8.2,14,Nishiasakusa,4
+5,648701984,TOKYO-W-INN Asakusa - Hostel,2.0,8.4,15,Asakusa,5
+6,1476296672,WTH Ueno - Hostel,2.0,9.2,15,Higashiueno,6
+7,628413,Edo Tokyo Hostel,1.0,6.8,15,Edogawa,7
+8,546901,IMANO TOKYO HOSTEL,2.0,8.4,16,Shinjuku,8
+9,1481652704,commun ryogoku,2.5,9.4,16,Ryogoku,9
+10,883057440,bnb+ Secret Base Mejiro - Hostel,1.0,8.4,17,Mejiro,10
+11,952635936,bnb+ Asakusa Kuramae - Hostel,1.0,8.0,17,Taito,11
+12,975646656,bnb+ Kanda - Hostel,1.0,8.4,17,Kanda Nishikicho,12
+13,1066604096,bnb+ Ueno Okachimachi,1.0,7.2,17,Taito,11
+14,512384,1 Night 1980 Hostel Tokyo,1.5,8.2,17,Ueno,1
+15,672851040,Taito Ryokan,2.5,8.6,17,Nishiasakusa,4
+16,641509216,Tokyo Guest House Ouji Music Lounge - Hostel,2.0,8.4,17,Kita,13
+17,791728192,Plat Hostel Keikyu Asakusa Station,2.0,8.8,18,Nishiasakusa,4
+18,1186291008,Moon Station Hotel Tokyo,2.5,9.0,18,Ojima,14
+19,1228800256,Capsule Hotel Block Room,2.5,6.4,18,Akabane,15
+20,633936128,Little Japan,2.0,8.2,18,Asakusabashi,0
+21,1067597536,plat hostel keikyu asakusa karin,1.0,8.6,18,Sumida,16
+22,1102840000,The Wardrobe Hostel FOREST Shimokitazawa,1.0,8.4,19,Setagaya,17
+23,679795,Shibamata FU-TEN Bed and Local,2.0,8.4,19,Shibamata,18
+24,644760384,The Guest House Tokyo Azabu,2.0,7.8,19,Higashiazabu,19
+25,1158945216,The Micro Museum Hostel Kichijoji,2.0,7.4,19,Musashino,20
+28,577288,OYO Hotel Tetora Akabane,2.0,8.0,19,Akabane,15
+29,658712,nine hours Shinjuku-North,2.0,8.8,20,Hyakunincho,21
+30,1255365408,LEO YU CAPSULE HOTEL Funabashi,2.5,9.2,21,Funabashi,22
+31,897735584,LEO YU CAPSULE HOTEL Nishi Funabashi,2.5,8.6,21,Funabashi,22
+32,404015,Sakura Hostel Asakusa,2.0,8.4,21,Asakusa,5
+33,1619294272,FromScratch TOKYO,1.0,10.0,21,Ogibashi,23
+34,931085536,FOCUS Kuramae - Hostel,2.0,8.6,21,Kuramae,24
+36,1318832384,nine hours Hamamatsucho,2.5,8.4,22,Hamamatsucho,25
+37,832493600,nine hours Asakusa,2.5,8.4,22,Asakusa,5
+38,697399,nine hours woman Kanda,2.0,8.4,22,Kajicho,26
+39,635395520,do-c Ebisu,2.5,7.6,22,Ebisu,27
+40,1275007424,nine hours Suidobashi,2.5,8.6,22,Kanda-Misakicho,28
+41,732986368,nine hours Kamata,2.5,8.4,22,Kamata,29
+42,332612,Shinjuku Kuyakusho-mae Capsule Hotel,1.5,7.6,22,Kabukicho,30
+43,693047168,nine hours Otemachi-Imperial Palace ,2.0,8.2,22,Kanda Nishikicho,12
+44,554122,Do-c Gotanda,2.5,7.6,22,Higashigotanda,31
+45,426070,K's House Tokyo - Hostel,2.0,8.8,22,Kuramae,24
+46,480731,OYO Hikari House,2.0,8.8,22,Okubo,32
+47,378510,APA Hotel Asakusa-Kuramae,3.0,8.0,22,Komagata,33
+48,420540,Sotetsu Fresa Inn Tokyo-Toyocho,3.0,8.6,23,Koto,34
+49,739501472,The Wardrobe Hostel Roppongi,1.0,7.6,23,Roppongi,35
+50,949178400,Capsule Hotel Transit Shinjuku,2.5,8.2,23,Kabukicho,30
+51,1248633536,&And Hostel Minamisenju,2.0,8.2,23,Minamisenju,36
+52,690819680,Hostel Chapter Two Tokyo,1.0,9.4,24,Kaminarimon,37
+53,1564876928,Times Inn,2.5,7.2,24,Kamata,29
+54,1339661440,Kriness,2.5,6.6,24,Kawaguchi,38
+56,1653617248,APA Hotel Ueno Hirokoji,3.0,9.2,25,Chiyoda,39
+57,1362583232,Binemu Asabujuban,2.5,8.6,25,Higashiazabu,19
+58,1435784864,OYO Ryokan Wa Style Tokyo,2.5,7.2,25,Kawaguchi,38
+59,651052800,bnb+ Costelun Akiba - Hostel Caters to Adult Female Only,2.0,8.0,26,Iwamotocho,40
+60,683250624,&AND HOSTEL AKIHABARA,2.0,8.4,26,Kanda Sakumacho,41
+61,688387680,Sogi hostel Beehive,2.0,6.0,26,Sugamo,42
+62,1069021888,TOP EDGE HOSTEL,1.0,8.4,26,Koenjiminami,43
+63,1179818528,Theater Zzz - Hostel,1.0,9.0,26,Sumida,16
+64,1184498240,Hotel Adonis,1.0,10.0,26,Minamiaoyama,44
+65,726732928,CITAN - Hostel,2.0,9.0,26,Nihonbashi,45
+66,327493,Sakura Hotel Ikebukuro - Hostel,2.0,8.2,26,Ikebukuro,46
+67,636594,Cotoha HOTEL OKACHIMACHI,3.0,8.8,26,Ueno,1
+68,860655456,Akasakano-sato Premium,2.5,7.6,27,Akasaka,47
+69,860675456,Akasaka-no Sato Female Only,1.0,7.4,27,Akasaka,47
+70,425866,Capsule Hotel Shinjuku 510,1.5,8.6,27,Kabukicho,30
+71,698346,Sakura Hotel Nippori,2.5,8.6,27,Sendagi,48
+72,432096,Hotel Graphy Nezu,3.0,8.6,27,Taito,11
+73,1748716704,NOMAD Rio de Marso,2.5,10.0,27,Matsudo,49
+74,702958240,hostel DEN,1.0,8.8,28,Nihonbashi,45
+75,718464064,HOTEL EMIT UENO,3.0,8.2,28,Higashiueno,6
+76,627530,Tokyo Guest House Itabashijuku - Hostel,1.5,8.8,28,Itabashi,3
+77,358445,Sakura Hotel Jimbocho,2.0,8.8,28,Chiyoda,39
+78,509544,APA Hotel Asakusabashi-Ekikita,3.0,8.6,29,Asakusabashi,0
+79,1061967488,APA Hotel Ueno Inaricho Ekikita,3.0,8.4,29,Ueno,1
+80,405600,Palace Japan Hotel,2.0,8.4,29,Kiyokawa,50
+81,623475488,APA Hotel Asakusa Kaminarimon,3.0,8.8,29,Kaminarimon,37
+82,694878,APA Hotel Asakusa Tawaramachi Ekimae,3.0,8.6,29,Nishiasakusa,4
+83,865708800,APA Hotel Asakusa-Ekimae,3.0,8.8,29,Komagata,33
+84,556139,APA Hotel Ueno Ekikita,3.0,7.8,29,Ueno,1
+85,451798,Capsule Inn Kamata,2.0,7.6,29,Kamata,29
+87,607636768,almond hostel & cafe Shibuya,1.0,8.6,29,Motoyoyogicho,51
+88,1184482912,Hotel Tomariya Ueno - Hostel,2.0,7.4,29,Ueno,1
+89,701804032,Nui. HOSTEL & BAR LOUNGE,1.0,8.8,29,Kuramae,24
+92,1545312160,unito CHIYODA,2.5,10.0,29,Higashikanda,52
+93,669526,Asakusa Town Hotel,3.0,7.2,29,Asakusa,5
+95,458611,Asakusa Ryokan Toukaisou,2.0,8.8,30,Nishiasakusa,4
+96,638775936,OYO KAME-CiTi Ryokan Kameido,2.5,8.6,30,Koto,34
+98,476150,APA Hotel Higashi-Shinjuku-Kabukicho,3.0,8.0,30,Kabukicho,30
+99,670116,obi Hostel,1.0,8.4,31,Nihonbashi,45
+100,623047584,Beagle Tokyo Hostel and Apartments,2.0,8.6,32,Haneda,53
+102,599621,Sotetsu Fresa Inn Ginza-Nanachome,3.0,8.6,32,Ginza,54
+103,335843,Sakura Ryokan Asakusa Iriya,2.0,8.0,32,Iriya,55
+104,621277888,Henn na Hotel Tokyo Ginza,3.0,8.0,32,Tsukiji,56
+105,1165600288,OYO Hotel Urban Stays Asakusa,2.5,9.0,32,Azumabashi,57
+106,687231,KEIKYU EX INN Higashiginza,3.0,9.0,32,Tsukiji,56
+107,364560,Flexstay Inn Sugamo,2.5,7.8,32,Sugamo,42
+108,1449235392,Hotel Minami,2.5,9.0,33,Taito,11
+109,544520,Super Hotel Lohas Akasaka,3.0,9.0,33,Akasaka,47
+110,630042,Nagomi,1.5,8.8,33,Itabashi,3
+111,425448,Tokyo Inn,3.0,7.6,34,Ota,58
+112,1177821472,Super Hotel Shinbashi Karasumoriguchi,3.0,8.6,34,Shinbashi,59
+113,581157,UNPLAN Kagurazaka - Hostel,1.5,8.8,34,Shinjuku,8
+114,1241838304,Tennenonsen U-neru,2.5,8.6,34,Narashino,60
+115,1157367552,OYO Hotel Mercury Asakusabashi,3.0,6.6,35,Asakusabashi,0
+116,468234,Flexstay Inn Nakanobu,2.5,7.4,35,Tokyo,61
+117,545515,APA Hotel Okachimachieki-Kita S,3.0,7.4,35,Ueno,1
+118,336631,Hotel Yanagibasi - Hostel,2.0,7.4,35,Yanagibashi,62
+119,221348,Hotel Rose Garden Shinjuku,3.0,8.4,35,Nishi-Shinjuku,63
+120,461537,Tokyo Guest House 2020,2.0,7.6,35,Higashiogu,64
+121,1777015488,NOMAD Miyama,3.0,10.0,35,Matsudo,49
+122,338862,Sotetsu Fresa Inn Tokyo-Kamata,3.0,8.4,35,Kamata,29
+123,143366,Apa Hotel And Resort Tokyo Bay Makuhari,3.5,8.2,36,Chiba,65
+124,1662101056,Apa Hotel Higashi Shinjuku Kabukicho Tower,3.0,9.6,36,Kabukicho,30
+125,435627,APA Hotel Shintomicho-Ekimae,3.0,7.8,36,Chuo,2
+126,359544,APA Villa Hotel Akasaka-Mitsuke,3.0,7.8,36,Akasaka,47
+127,449864,APA Hotel Shimbashi Toranomon,3.0,7.8,36,Nishishinbashi,66
+128,456836,APA Hotel Hanzomon Hirakawacho,3.0,8.2,36,Hirakawacho,67
+129,939955168,APA Hotel Nihombashi Bakurocho-Ekimae,3.0,8.8,36,Nihonbashi,45
+130,359519,Apa Hotel Tokyo Kiba,3.0,7.4,36,Koto,34
+131,710678272,APA Hotel Nihombashi Bakurocho-Ekikita,3.0,8.8,36,Higashikanda,52
+132,378500,APA Hotel Ningyocho-Eki-Kita,3.0,8.0,36,Nihonbashihoridomecho,68
+133,725188832,APA Hotel Hatchobori Shintomicho,3.0,8.6,36,Chuo,2
+134,378494,APA Hotel Shimbashi Onarimon,3.0,7.8,36,Shinbashi,59
+135,406309,APA Hotel Kanda-Eki-Higashi,3.0,7.8,36,Iwamotocho,40
+136,622640,APA Hotel Shintomicho-Ekikita,3.0,8.4,36,Chuo,2
+137,1093996192,APA Hotel Komagome Ekimae ,3.0,8.6,36,Toshima,69
+138,378358,APA Hotel Tsukiji-Eki-Minami,3.0,7.8,36,Tsukiji,56
+139,1624833248,APA HOTEL Nihombashi Bakuroyokoyama Ekimae,3.0,10.0,36,Nihonbashi,45
+140,367496,APA Hotel <Hatchobori Eki Minami>,3.0,7.8,36,Chuo,2
+141,226756,APA Hotel Nishiazabu,3.0,7.4,36,Nishiazabu,70
+142,419682,APA Hotel Higashi Shinjuku Ekimae,3.0,7.8,36,Okubo,32
+143,461326,APA Hotel Higashi-Nihombashi-Ekimae,3.0,8.2,36,Higashinihonbashi,71
+144,1440326912,APA HOTEL < Ningyocho Ekihigashi >,3.0,7.6,36,Nihonbashihoridomecho,68
+145,367523,APA Hotel Nihombashi-Hamachoeki - Minami,3.0,8.2,36,Nihonbashi,45
+146,563174,APA Hotel Keisei Ueno-Ekimae,3.0,8.2,36,Taito,11
+147,443000,APA Hotel Ginza-Takaracho,3.0,8.0,36,Chuo,2
+148,400934,APA Hotel Kodemmacho-Ekimae,3.0,8.0,36,Nihonbashi,45
+149,572604,APA Hotel Sugamo Ekimae,3.0,8.4,36,Sugamo,42
+150,1139330112,Henn na Hotel Tokyo Asakusa Tawaramachi,3.0,8.8,36,Taito,11
+151,866537856,Theatel Haneda,3.0,8.4,36,Haneda,53
+152,678021,Koraku Garden Hotel,3.0,8.0,36,Korakuen,72
+154,322415008,OYO 44760 Kawaguchi Station Hotel,3.0,6.0,36,Kawaguchi,38
+155,688929152,Sotetsu Fresa Inn Tokyo-Kanda,3.0,8.6,36,Kanda Nishifukudacho,73
+156,1776986496,NOMAD Horikiri House,3.0,10.0,36,Matsudo,49
+157,1748702720,NOMAD Take Five,3.0,8.8,36,Matsudo,49
+158,1748708928,NOMAD Kiara City,2.5,8.0,36,Matsudo,49
+159,631721088,Sotetsu Fresa Inn Ginza-Sanchome,3.0,8.4,36,Ginza,54
+160,1054912608,AI HOTEL Keikyu Kamata,2.5,8.4,37,Kamata,29
+161,1183583072,Cypress Inn Tokyo,3.0,9.2,37,Nishishinkoiwa,74
+162,328309,Hotel MyStays Asakusa,3.0,7.6,37,Sumida,16
+163,565603,Premier Hotel-CABIN-Shinjuku,3.0,8.0,37,Kabukicho,30
+164,422808,Sotetsu Fresa Inn Nihombashi-Kayabacho,3.0,8.4,38,Nihonbashi,45
+166,604011,commun SHIBUYA - Caters to Men,2.0,7.8,38,Sakuragaokacho,75
+167,1735200832,Guanjing Apartment,2.5,8.0,38,Okubo,32
+168,316128288,Super Hotel Shinagawa Aomonoyokocho,3.0,10.0,38,Higashishinagawa,76
+169,547605,Spa & Capsule Hotel GrandPark-Inn Kitasenju,2.0,7.8,38,Adachi,77
+171,1335142880,Shizutetsu Hotel Prezio Tokyo Tamachi,3.5,9.4,38,Tamachi,78
+172,363436,Hotel Wing International Shinjuku,3.0,8.0,38,Kabukicho,30
+173,1227322912,Hotel Tokyo Trip,3.0,8.8,39,Nishinippori,79
+175,256969,Hotel Sunroute Plaza Shinjuku,3.0,8.4,39,Yoyogi,80
+176,1456297568,Hotel OKUnoMA,2.5,10.0,39,Asakusa,5
+177,415952,Hotel Resol Ikebukuro,3.0,8.8,39,Toshima,69
+178,1128732800,APA Hotel Shinjuku Kabukicho Chuo,3.0,8.4,39,Kabukicho,30
+179,653874,APA Hotel Higashi Shinjuku Kabukicho-Higashi,3.0,8.2,39,Kabukicho,30
+180,1093747456,"MANGA ART HOTEL, TOKYO - Hostel",2.0,7.6,39,Kanda Nishikicho,12
+181,632471520,COCO STAY NISHIKAWAGUCHI EKIMAE,2.5,8.0,39,Kawaguchi,38
+182,926956928,KEIKYU EX INN SHINAGAWA SENGAKUJI-STATION,3.0,8.6,39,Mita,81
+183,570180,MyCUBE by MYSTAYS Asakusa Kuramae,2.0,9.2,39,Kuramae,24
+184,385247,Diamond Hotel,3.0,8.2,39,Kojimachi,82
+185,1662096736,APA HOTEL Roppongi Six,3.0,8.6,39,Roppongi,35
+186,595969,Amanek Ginza East,3.0,8.4,40,Chuo,2
+187,1182566240,Ikebukuro Lodging,2.5,8.8,40,Toshima,69
+188,229311,Comfort Hotel Tokyo Kiyosumi Shirakawa,3.0,8.2,40,Kiyosumi-Shirakawa,83
+189,1175705344,Superhotel Tokyo Otsuka ,2.0,9.0,40,Kitaotsuka,84
+190,1179992160,Super Hotel Shinagawa Shimbamba,3.0,9.0,40,Shinagawa,85
+191,1472649248,Otsuka Station Apartment Hotel,2.5,10.0,40,Kitaotsuka,84
+192,1503682688,APA Hotel Omori-Ekimae,3.0,8.6,40,Ota,58
+193,385534,Smile Hotel Sugamo,3.0,8.8,40,Sugamo,42
+194,1085538432,UNPLAN Shinjuku � Hostel,2.0,9.0,40,Shinjuku,8
+195,1173381952,Super Hotel Tokyo Hamamatsucho ,3.0,9.0,40,Hamamatsucho,25
+196,531256,the b suidobashi,3.0,8.2,40,Suidobashi,86
+197,371817,Tokyu Stay Gotanda,3.0,8.8,41,Higashigotanda,31
+198,611320768,Keio Presso Inn Hamamatsucho,3.0,8.6,41,Shibadaimon,87
+199,326242,the b ochanomizu,3.5,8.4,41,Ochanomizu,88
+200,558679,CVS Bay Hotel,3.0,7.8,41,Ichikawa,89
+201,221667,Comfort Inn Tokyo Roppongi,3.0,8.2,41,Roppongi,35
+202,380247,R&B Hotel Kamata Higashi-guchi,2.5,8.6,41,Kamata,29
+203,380244,R&B Hotel Ueno Hirokoji,2.5,8.2,41,Ueno,1
+204,727370208,BOOK AND BED TOKYO SHINJUKU - Hostel,2.0,8.6,41,Kabukicho,30
+205,1169174656,"Super Hotel Akihabara, Suehiro-cho",3.0,8.6,42,Taito,11
+206,1166858880,SuperHotel Tokyo Kinshicho-ekimae,3.0,9.0,42,Kinshi,90
+207,643950624,Henn na Hotel Tokyo Asakusabashi,3.0,8.4,42,Asakusabashi,0
+208,1166051520,Hotel Life Tree Ueno ,3.0,8.8,42,Higashiueno,6
+209,1352376288,Keio Presso Inn Higashi Ginza,3.0,4.6,42,Tsukiji,56
+210,239641,Tokyo Bay Ariake Washington Hotel,3.0,7.8,42,Ariake,91
+211,721113472,Hotel Risveglio Akasaka,3.5,8.8,42,Akasaka,47
+213,388380,Dormy Inn Express Asakusa Hot Spring,3.0,8.6,42,Asakusa,5
+215,267536,Comfort Hotel Tokyo Higashi Nihombashi,3.0,8.6,42,Nihonbashi,45
+216,310443,Listel Shinjuku Hotel Tokyo,3.0,7.8,42,Shinjuku,8
+217,437612,APA Hotel Ginza-Kyobashi,3.0,7.8,43,Kyobashi,92
+218,479370,APA Hotel Kanda-Jimbocho-Ekihigashi,3.0,8.4,43,Kanda Ogawamachi,93
+219,461263,APA Hotel Shinjuku Gyoen-mae,3.0,8.2,43,2-Chome Shinjuku,94
+220,400955,APA Hotel Tokyo-Kudanshita,3.0,8.0,43,Iidabashi,95
+221,533033,APA Hotel Shinjuku Kabukicho Tower,3.0,7.8,43,Kabukicho,30
+222,556763,APA HOTEL ROPPONGI-EKIMAE,3.0,8.2,43,Roppongi,35
+223,359527,APA Hotel Tokyo Itabashi Ekimae,3.0,7.6,43,Kamiikebukuro,96
+224,375190,APA Hotel Ikebukuro-Eki-Kitaguchi,3.0,7.8,43,Ikebukuro,46
+225,644325,APA Hotel Kamataeki-Higashi,3.0,8.2,43,Kamata,29
+226,1182612800,APA Hotel Ayase Ekimae,3.0,8.8,43,Adachi,77
+227,1138451904,Akihabara Nakagawa Inn,3.0,8.4,43,Taito,11
+228,556270816,Comfort Hotel Tokyo Higashi Kanda,2.5,8.6,43,Higashikanda,52
+229,699885,Sotetsu Fresa Inn Tokyo-Roppongi,3.0,8.4,43,Roppongi,35
+230,1208300000,"Far East Village Hotel Ariake, Tokyo",3.0,9.0,43,Ariake,91
+231,513105,Belmont Hotel,3.0,7.8,43,Yanagibashi,62
+232,713420896,KOENJI JUNJO HOTEL ,2.5,8.2,43,Koenjiminami,43
+233,646106272,Hatoya Hotel,2.0,8.2,43,Ikebukuro,46
+234,720178496,FAMY INN MAKUHARI,3.0,7.8,43,Chiba,65
+235,392540,Hotel Route-Inn Tokyo Ikebukuro,3.0,8.2,43,Toshima,69
+236,641929792,Hotel IL FIORE Kasai,3.0,8.8,43,Higashikasai,97
+237,1888820384,KOKO HOTEL Ginza 1chome,2.5,8.6,43,Chuo,2
+238,481849,Capsule Hotel Anshin Oyado Akihabara,1.5,8.6,43,Ochanomizu,88
+239,882135872,BUSINESS HOTEL La Firenze,3.0,8.2,43,Adachi,77
+240,391035,Nishitetsu Inn Kamata,3.0,8.8,43,Kamata,29
+241,345257,Hotel Horidome Villa,2.5,8.6,43,Nihonbashihoridomecho,68
+242,425412,Grand Park Hotel Panex Tokyo,3.0,7.6,43,Kamata,29
+244,468222,Flexstay Inn Tokiwadai,2.5,7.2,43,Itabashi,3
+245,1909719200,APA Hotel Shinagawa Togoshiekimae,3.0,9.4,43,Tokyo,61
+246,1573986336,Time Sharing Stay Asakusa -Hostel,1.0,9.4,43,Asakusa,5
+247,860784032,BELKEN HOTEL KANDA,2.5,9.2,44,Kanda Sudacho,98
+248,468277,Hotel MyStays Asakusa-bashi,3.0,8.6,44,Asakusabashi,0
+249,314237,Sotetsu Grand Fresa Tokyo-Bay Ariake,3.0,8.4,44,Ariake,91
+250,380274,R&B Hotel Otsuka-eki Kita-guchi,2.5,7.8,44,Kitaotsuka,84
+251,1136767840,44824 Hotel Cocoro Inn Asakusa Kuramae,2.5,7.4,44,Kuramae,24
+252,470992,Maple Inn Makuhari,3.0,7.8,44,Chiba,65
+253,1176019552,Super Hotel Asakusa,3.0,10.0,44,Asakusa,5
+254,1722254080,Exsaison Kamata 101,2.0,5.0,44,Ota,58
+262,976456672,First Cabin TKP Ichigaya,2.5,8.8,44,Shinjuku,8
+267,395474,Hotel Tateshina,2.5,7.0,44,Shinjuku,8
+268,647937472,Urbain Tokyo Ueno Kitasenju,3.0,8.8,44,Adachi,77
+269,268046,Citadines Central Shinjuku Tokyo,3.5,8.6,44,Kabukicho,30
+270,1438793792,Miki Hall Akabane,3.0,2.0,44,Kita,13
+271,325750,Sky Heart Hotel Koiwa,2.5,8.4,44,Kitakoiwa,99
+272,337793,Akasaka Granbell Hotel,3.0,8.6,44,Akasaka,47
+273,663580,Red Roof Inn Kamata-Haneda Tokyo,3.0,8.4,45,Kamata,29
+274,312768,Sotetsu Fresa Inn Higashi Shinjuku,3.0,8.6,45,Okubo,32
+275,621057,Shinkoiwa Park Hotel,2.5,8.0,45,Nishishinkoiwa,74
+276,635089,APA Hotel TKP Nippori-Ekimae,3.0,8.4,45,Higashinippori,100
+277,524439,Red Planet Tokyo Asakusa,3.0,8.8,45,Asakusa,5
+278,332935,Hotel New Star Ikebukuro,3.0,7.0,45,Ikebukuro,46
+279,700999104,Ryoma Ikebukuro I - Hostel,1.0,8.8,45,Ikebukuro,46
+280,1341891136,Richmond Hotel Tokyo Suidobashi,3.5,9.0,45,Suidobashi,86
+281,622321792,Belken Hotel Tokyo,2.5,8.8,45,Nihonbashikabutocho,101
+282,546981,First Cabin Atagoyama,2.0,8.6,45,Nishishinbashi,66
+283,460547,Hotel Wing International Premium Tokyo Yotsuya,3.0,8.6,45,Yotsuya,102
+284,1809273728,Sotetsu Fresa Inn Kanda Otemachi,3.0,8.0,45,Uchikanda,103
+285,1851518400,Smile Hotel Tokyo Nishikasai,3.0,7.4,45,Nishikasai,104
+286,468235,Flexstay Inn Higashi-Jujo,2.5,7.6,45,Nakajujo,105
+287,876310144,Miyako City Tokyo Takanawa,3.5,9.0,45,Takanawa,106
+288,380239,R&B Hotel Higashi Nihonbashi,2.5,8.2,46,Higashinihonbashi,71
+289,625142,Hotel Green Tower Makuhari,3.5,7.8,46,Chiba,65
+290,406325,Almont Inn Nihonbashi,3.0,8.6,46,Nihonbashi,45
+291,1173194880,Super Hotel Tokyo / Kameido,2.5,8.0,46,Kameido,107
+292,468278,Hotel MyStays Kamata,3.5,8.6,46,Kamata,29
+293,570210,Kuretake-INN Tokyo Funabori,3.5,8.2,46,Funabori,108
+294,1724539168,Kameido House,2.5,7.0,46,Koto,34
+295,1559223616,Asahi group Tokyo Shinjyuku Tei Hotel,2.5,8.6,46,Nishi-Shinjuku,63
+296,1412335008,Hotel Vista Tokyo Tsukiji,3.0,9.2,46,Tsukiji,56
+297,349747,the b akasaka-mitsuke,3.0,8.4,46,Akasaka,47
+298,540043,Hotel Yamayuri,2.5,8.4,46,Higashiueno,6
+299,421315,Sotetsu Fresa Inn Nihombashi-Ningyocho,3.0,8.4,46,Nihonbashi,45
+300,855266464,Asakusa hotel Hatago,3.0,8.6,46,Komagata,33
+301,484723,Marroad Inn Akasaka,3.0,7.4,46,Akasaka,47
+302,371778,Tokyu Stay Suidobashi,3.0,8.6,47,Suidobashi,86
+303,616156,Hotel Toka,2.5,7.0,47,Edogawa,7
+304,311293,Best Western Tokyo Nishikasai,3.0,7.8,47,Nishikasai,104
+305,556176,Ryogoku View Hotel,3.0,8.6,47,Ryogoku,9
+306,1254727040,hotel MONday Asakusabashi,3.0,8.0,47,Asakusabashi,0
+307,612534304,VIA INN AKIHABARA,3.0,8.8,47,Kanda Sudacho,98
+308,343963,Akihabara Washington Hotel,3.5,8.8,47,Kanda Sakumacho,41
+309,1047746752,HOTEL TAVINOS HAMAMATSUCHO,3.0,8.6,47,Kaigan,109
+310,352508,Smile Hotel Tokyo Ayase Ekimae,3.0,7.8,47,Katsushika,110
+311,325559,Smile Hotel Asakusa,3.0,7.6,47,Asakusa,5
+312,419733,APA Hotel Mita-Ekimae,3.0,7.8,47,Shiba,111
+313,236370,Pearl Hotel Kayabachou,2.5,7.6,47,Shinkawa,112
+314,384917,Hotel Famy Inn Kinshicho,3.0,8.6,47,Sumida,16
+315,646411200,City Pension Zem,3.0,8.8,47,Nihonbashi,45
+316,324754,Via Inn Asakusa,3.0,8.2,47,Asakusa,5
+317,228256,THE KNOT TOKYO Shinjuku,3.0,8.8,48,Nishi-Shinjuku,63
+318,646908,HOTEL BUSINESS VILLA OMORI,3.0,7.0,48,Omorinishi,113
+319,395683,Sotetsu Fresa Inn Tokyo Kyobashi,3.0,8.2,48,Kyobashi,92
+320,955730368,hotel MONday TOYOSU,3.5,8.6,48,Koto,34
+321,1648200064,Minn Kamata,3.0,9.2,48,Kamata,29
+322,1264817792,Tokyo City View Hotel Tabata Station,3.0,8.2,48,Kita,13
+323,392488,Hotel Route-Inn Shinagawa Oimachi,3.0,8.0,48,Shinagawa,85
+327,567629408,Best Western Tokyo Nishikasai Grande,3.5,9.0,48,Nishikasai,104
+328,396481,Hotel Star Plaza Ikebukuro,3.0,7.8,48,Ikebukuro,46
+329,328308,Hotel MyStays Kameido,3.0,7.4,49,Koto,34
+330,591634,Hotel Sardonyx Ueno,3.5,8.6,49,Ueno,1
+331,356374,Candeo Hotels Uenokoen,3.0,7.8,49,Ueno,1
+332,1465675008,ICI HOTEL Tokyo Hatchobori,2.5,8.0,49,Hatchobori,114
+333,671310688,HOSTEL WAQWAQ TOKYO UENO ASAKUSA,2.0,7.4,49,Ueno,1
+334,457392,Ryokan Sansuiso,2.0,9.6,49,Higashigotanda,31
+335,1210976416,Kin Hotel,2.5,9.4,49,Ueno,1
+336,627076800,APA HOTEL IIDABASHI-EKIMINAMI,3.0,8.4,49,Iidabashi,95
+337,417792,APA Hotel Akihabara-ekimae,3.0,8.0,49,Kanda Sakumacho,41
+338,644032,APA HOTEL IIDABASHI-EKIMAE,3.0,8.2,49,Iidabashi,95
+339,641866176,APA HOTEL KANDA-EKIMAE,3.0,8.6,49,Kanda,115
+340,536941,Otsuka City Hotel,2.5,7.4,50,Minamiotsuka,116
+341,1182701376,VIA INN Nihonbashi Ningyocho,3.0,9.0,50,Nihonbashi,45
+342,1719026912,Super Hotel Tokyo JR Shinkoiwa,3.0,9.6,50,Shinkoiwa,117
+344,391046,Nishitetsu Inn Nihonbashi,3.0,9.0,50,Nihonbashi,45
+345,1053509344,Hotel Wing International Select Ikebukuro,3.0,9.0,50,Toshima,69
+346,626084,SLE Japan Ichikawa House,2.5,10.0,50,Ichikawa,89
+347,314229,Daiichi Hotel Ryogoku,3.5,8.6,50,Kamezawa,118
+348,371876,Tokyu Stay Ikebukuro,3.0,8.8,51,Ikebukuro,46
+349,468255,HOTEL MYSTAYS Kiyosumi shirakawa,3.0,8.4,51,Kiyosumi-Shirakawa,83
+350,604022,Meitetsu Inn Hamamatsucho,3.0,8.8,51,Hamamatsucho,25
+351,468264,Hotel MyStays Higashi-Ikebukuro,3.0,8.6,51,Higashiikebukuro,119
+352,425393,Annex Katsutaro Ryokan,2.5,9.2,51,Sendagi,48
+353,248463,Hotel Gracery Ginza,3.5,8.6,51,Ginza,54
+354,325303648,Keio Presso Inn Ikebukuro,3.0,7.4,51,Toshima,69
+355,236646,Pearl Hotel Ryogoku,3.0,8.0,51,Sumida,16
+356,1409601312,Hotel Tavinos Asakusa,2.5,9.4,51,Asakusa,5
+357,1256482784,Akasaka Urban Hotel Annex,2.5,8.8,51,Akasaka,47
+358,651259,JR-EAST HOTEL METS KOMAGOME,3.0,9.2,51,Toshima,69
+359,738400256,HOTEL Nishikawaguchi Weekly,3.0,8.4,51,Kawaguchi,38
+360,266264,Tokyo Green Palace,3.0,8.4,51,Chiyoda,39
+362,1728437632,RESIDENTIAL HOTEL YAMATO-H Shimokitazawa 207,3.0,8.0,51,Shimokitazawa,120
+363,380263,R&B Hotel Tokyo Toyo-cho,2.5,8.2,51,Minamisuna,121
+364,1047747328,HOTEL ORIENTAL EXPRESS TOKYO KAMATA ,3.0,8.8,51,Kamata,29
+365,1138416768,Business Hotel Sun Palace,3.0,7.4,51,Minamisenju,36
+366,475501,Flexstay Inn Shin-Urayasu,2.5,7.4,52,Maihama,122
+367,684667584,Hotel Wing International Select Ueno Okachimachi,3.0,8.8,52,Higashiueno,6
+368,875984768,ibis Styles Tokyo Bay,3.0,8.6,52,Urayasu,123
+369,325644,Smile Hotel Tokyo Asagaya,2.5,8.0,52,Asagayaminami,124
+370,327495,Ginza Capital Hotel Akane,3.0,8.2,52,Tsukiji,56
+371,236371,Pearl Hotel Kasai,3.0,7.8,52,Higashikasai,97
+372,1204978368,Hotel Amanek Kamata Ekimae,3.0,8.8,52,Kamata,29
+373,310579,Citadines Shinjuku Tokyo,3.5,9.0,52,Shinjuku,8
+374,468260,Hotel MyStays Nippori,3.0,7.6,52,Higashinippori,100
+375,639243,Shinjuku Urban Hotel,2.5,9.0,52,Kabukicho,30
+376,607265632,Sotetsu Fresa Inn Ueno-Okachimachi,3.0,8.8,52,Ueno,1
+377,453374,Urbain Tokyo Haneda Kamata,3.5,8.4,52,Kamata,29
+378,464743,Hotel Lumiere Nishikasai,3.0,8.6,52,Nishikasai,104
+379,652673280,JR-EAST HOTEL METS FUNABASHI,3.0,9.4,52,Funabashi,22
+380,631787904,Sotetsu Fresa Inn Tokyo-Kinshicho,3.0,9.0,52,Sumida,16
+381,743242528,KAWASAKI KING SKYFRONT TOKYU REI HOTEL,3.5,9.0,52,Tonomachi,125
+382,313859392,Shimane Inn Aoyama,3.0,8.2,53,Minamiaoyama,44
+383,481858,Capsule Hotel Anshin Oyado Shinbashi,1.5,8.2,53,Shinbashi,59
+384,648364,Hotel Trend Funabashi,3.0,7.4,53,Funabashi,22
+385,643936096,Henn na Hotel Tokyo Akasaka,3.0,8.4,53,Akasaka,47
+386,936076192,Pearl Hotel Shinjuku Akebonobashi,3.0,8.6,53,Shinjuku,8
+388,771215552,The GLOBAL HOTEL TOKYO,2.5,8.6,53,Hyakunincho,21
+389,470482,Hotel East 21 Tokyo,4.0,9.0,53,Koto,34
+390,611591520,KARIO KAMATA,3.5,8.4,54,Kamata,29
+391,769821440,AOCA SANNO APARTMENT OF CONTEMPORARY ART,3.0,8.4,54,Ota,58
+392,1019145568,Kamata In Social,3.0,7.6,54,Kamata,29
+393,365383,Super Hotel Ueno-Okachimachi,3.0,8.4,54,Ueno,1
+394,687257,Hotel Kajigaya Plaza,3.0,8.0,54,Takatsu,126
+395,1476245824,Hotel Double Funabashi,3.0,9.0,54,Funabashi,22
+396,735059168,Hotel Seiyoken,3.0,8.0,54,Nakahara Ward,127
+397,1464026784,Happy Train Oasis Room,3.0,10.0,54,Sendagaya,128
+398,1037558752,Hotel Comfact,2.5,7.2,54,Ueno,1
+399,1166896416,Super Hotel Tokyo Akabane-Eki Higashiguchi Ichibangai,3.0,8.6,54,Akabane,15
+400,392525,HOTEL ROUTE-INN Grand TOKYO TOYOCHO,3.0,8.8,54,Koto,34
+401,424940,Hotel Hanabi,2.5,7.2,54,Hyakunincho,21
+402,910407808,OURS INN HANKYU,3.0,8.6,54,Shinagawa,85
+403,325749,Hotel Asia Center of Japan,3.0,9.0,54,Akasaka,47
+404,1174762752,Via Inn Iidabashi Korakuen,3.0,9.0,54,Shinjuku,8
+405,422806,Sotetsu Fresa Inn Tokyo-Tamachi,3.0,8.4,54,Tamachi,78
+406,556209,Family Inn Saiko,2.5,8.6,55,Toshima,69
+407,1028373952,Hotel Wing International Tokyo Akabane,3.0,8.6,55,Akabane,15
+408,1056822176,E Hotel WARABI,3.0,8.0,55,Warabi,129
+409,359484,Ueno Terminal Hotel,3.5,7.4,55,Higashiueno,6
+411,635887680,APA Hotel TKP Tokyo Nishikasai,3.0,8.6,55,Nishikasai,104
+412,347148,Hotel Wing International Ikebukuro,3.0,8.2,55,Toshima,69
+413,1177851552,Super Hotel Tozai line Ichikawa Myoden Mae,3.0,8.4,55,Ichikawa,89
+414,722746464,La Krasse Sumida,2.5,8.8,55,Sumida,16
+415,463486,Ueno Hotel,3.0,8.0,55,Ueno,1
+416,323330,Hotel Sunroute Patio Omori,3.0,8.2,55,Minamioi,130
+417,1254672512,hotel MONday Asakusa,3.0,9.8,55,Asakusa,5
+418,877475680,ICI HOTEL ASAKUSABASHI,3.5,9.2,55,Asakusabashi,0
+419,803893312,ICI HOTEL Ueno Shin-Okachimachi,3.5,9.2,55,Ueno,1
+420,1434944448,Hotel&Co. Sagami,2.5,4.6,55,Shinjuku,8
+421,1482764096,Tosei Hotel Cocone Ueno Okachimachi,3.0,9.4,55,Ueno,1
+422,323855,Tokyo Ueno Touganeya Hotel,3.0,8.8,55,Higashiueno,6
+423,1737667456,Super Hotel JR Ueno-Iriyaguchi,3.0,9.2,56,Ueno,1
+424,1254739456,hotel MONday Okachimachi,3.0,9.6,56,Taito,11
+426,468212,Flexstay Inn Tamagawa,2.5,8.0,56,Nakahara Ward,127
+429,709188640,HANEDA INN,3.0,8.6,56,Ota,58
+430,385524,Smile Hotel Nihombashi-Mitsukoshimae,3.0,7.8,56,Nihonbashi,45
+431,456376,The Royal Park Hotel Tokyo Haneda,4.0,8.8,57,Ota,58
+432,1136918272,Kario Sasazuka Terrace,3.0,9.0,57,Sasazuka,131
+433,672344,Keio Presso Inn Akasaka,3.0,8.6,57,Akasaka,47
+434,1346747072,LANDABOUT Tokyo,3.0,9.4,57,Ueno,1
+435,371799,Tokyu Stay Nihombashi,3.0,8.4,57,Nihonbashimuromachi,132
+438,1015177280,Tosei Hotel Cocone Ueno,3.0,8.8,57,Higashiueno,6
+439,371924,Tokyu Stay Kamata,3.0,8.6,57,Kamata,29
+440,228058,the b akasaka,3.5,8.2,57,Akasaka,47
+441,741653312,Ryogoku River Hotel,3.0,6.2,57,Ryogoku,9
+442,703902816,Keio Presso Inn Kudanshita,3.0,8.4,57,Kudankita,133
+443,1076967008,hotel MONday Tokyo Nishikasai,3.0,8.8,57,Nishikasai,104
+444,398436,Tokyo Plaza Hotel,3.0,8.0,57,Hyakunincho,21
+445,709297792,The Millennials Shibuya,2.5,9.2,57,Shibuya,134
+446,607272896,the b shimbashi,3.0,8.8,57,Nishishinbashi,66
+447,651260,JR-EAST HOTEL METS TABATA,3.0,8.8,58,Kita,13
+448,586902,JR-EAST HOTEL METS AKABANE,3.0,8.8,58,Akabane,15
+449,391061,Nishitetsu Inn Shinjuku,3.0,8.8,58,Nishi-Shinjuku,63
+450,540041,Hotel Sunny,3.5,8.4,58,Nishinippori,79
+451,643949,Ichikawa Grand Hotel,3.0,7.4,58,Ichikawa,89
+452,371903,Tokyu Stay Nishi-Shinjuku,3.0,8.6,58,Nishi-Shinjuku,63
+453,711219808,HOTEL TOMS,3.0,8.6,58,Kamata,29
+454,787607328,URAYASU SUN HOTEL,3.0,7.8,58,Urayasu,123
+455,659539776,Yotsuya Sanchome,2.5,7.8,58,Yotsuya,102
+456,251725,Sotetsu Fresa Inn Tokyo-Akasaka,3.0,8.4,58,Akasaka,47
+457,1620267584,feel Asakusa Hotel,3.0,10.0,58,Komagata,33
+458,403936800,Hotel Edoya,3.0,8.4,58,Yushima,135
+459,650527136,JR-EAST HOTEL METS TSUDANUMA,3.0,9.0,58,Tsudanuma,136
+460,244303,Hotel Monterey Hanzomon,3.5,8.8,59,Chiyoda,39
+461,647431008,Tokyu Stay Takanawa Sengakuji Ekimae,3.0,9.0,59,Takanawa,106
+463,612515,Via Inn Tokyo Oimachi,3.0,8.4,59,Shinagawa,85
+464,463725,MyStays Shin-Urayasu,3.0,8.0,59,Urayasu,123
+465,646086656,hotel MONday Haneda Airport (Previously : Relief Premium Haneda Airport),3.0,8.8,59,Haginaka,137
+466,1354829920,Keio Presso Inn Nihonbashi Kayabacho,3.0,6.8,59,Nihonbashi,45
+467,1480682880,Tosei Hotel Cocone Asakusa Kuramae,3.0,8.0,59,Komagata,33
+468,696559488,ACT HOTEL ROPPONGI,2.5,8.2,59,Roppongi,35
+469,1318862656,Vessel Inn Keisei Tsudanuma Ekimae,3.5,9.0,59,Tsudanuma,136
+472,643937664,Henn na Hotel Tokyo Hamamatsucho,3.0,8.6,60,Hamamatsucho,25
+473,354582,Mitsui Garden Hotel Ueno,3.5,8.8,60,Higashiueno,6
+474,403462,Hotel Princess Garden,4.0,7.2,60,Tokyo,61
+475,327492,Ginza Capital Hotel Main,3.0,7.4,60,Tsukiji,56
+476,1174529440,Keisei Richmond Hotel Tokyo Monzennakacho,3.0,9.6,60,Monzennakacho,138
+477,476237,Sotetsu Fresa Inn Ochanomizu-Jimbocho,3.0,8.6,60,Jimbocho,139
+478,690093,ONE @ Tokyo,3.0,8.8,60,Oshiage,140
+479,109792,New Otani Inn Tokyo,3.0,7.6,60,Osaki,141
+480,759540800,KEIKYU EX INN ASAKUSABASHI-STATION,3.0,8.8,60,Asakusabashi,0
+481,442410,Smile Hotel Kawaguchi,3.5,7.6,60,Kawaguchi,38
+482,395663,Sotetsu Fresa Inn Hamamatsucho Daimon,3.0,8.4,60,Shibadaimon,87
+483,1116203296,La'gent Hotel Shinjuku Kabukicho,3.0,8.8,60,Kabukicho,30
+484,375526,E Hotel Higashi Shinjuku,3.0,7.8,61,Okubo,32
+485,312287,City Hotel N.U.T.S.,2.5,7.6,61,Shinjuku,8
+486,454753,OYO Tsukiji Business Hotel BAN,3.0,8.2,61,Tsukiji,56
+487,626876,Nice Inn Hotel Ichikawa Tokyo Bay,2.5,9.4,61,Ichikawa,89
+488,679938144,Tosei Hotel Cocone Kanda,3.0,8.6,61,Uchikanda,103
+489,1102124896,HOTEL LiVEMAX ASAKUSABASHI-EKIMAE,2.5,7.8,61,Asakusabashi,0
+490,312769,Urayasu Beaufort Hotel,3.0,8.2,61,Urayasu,123
+491,117610,Shinagawa Prince Hotel,3.5,8.0,61,Takanawa,106
+492,328304,Hotel MyStays Kanda,2.5,8.6,61,Iwamotocho,40
+493,688274208,HOTEL INTERGATE TOKYO KYOBASHI,3.5,9.0,61,Kyobashi,92
+494,172449,Daiichi Inn Ikebukuro,3.0,9.0,61,Toshima,69
+495,419695,APA Hotel Shibuya-Dogenzaka-Ue,3.0,8.0,61,Shibuya,134
+496,609298272,Via Inn Higashi Ginza,3.0,8.6,61,Tsukiji,56
+499,1630126688,H2O Stay Ikebukuro,3.0,10.0,61,Toshima,69
+501,324902,remm Akihabara,3.5,8.8,61,Kanda Sakumacho,41
+502,340111,Hotel Trusty Tokyo Bayside,3.5,8.4,61,Ariake,91
+504,1385492576,Hotel Resol Ueno,3.0,9.0,61,Ueno,1
+505,643934496,Henn na Hotel Tokyo Haneda,3.0,8.4,62,Ota,58
+506,1728434944,RESIDENTIAL HOTEL YAMATO-H Shimokitazawa 202,3.0,4.0,62,Shimokitazawa,120
+508,1173460608,Via Inn Shinjuku,3.0,8.6,62,Shinjuku,8
+509,1248628480,Hotel Tourist Inn Ueno Okachimachi,2.5,8.6,62,Ueno,1
+510,371802,Tokyu Stay Meguro-Yutenji,3.0,9.2,62,Yutenji,142
+511,397905,Chisun Inn Kamata,2.5,7.8,62,Kamata,29
+512,524392,Hotel MyStays Gotanda Station,3.0,8.0,62,Nishigotanda,143
+513,1073360256,HAMACHO HOTEL TOKYO NIHONBASHI,3.5,9.4,62,Nihonbashi,45
+514,678224128,Hotel Sun City Ikebukuro,2.5,8.2,63,Nishiikebukuro,144
+515,1053529888,Hotel Wing International Shimbashi Onarimon,3.0,8.8,63,Shinbashi,59
+516,701774464,SAKU REN JIMBOCHO,3.0,9.4,63,Jimbocho,139
+517,704089888,Keio Presso Inn Gotanda,3.0,8.0,63,Nishigotanda,143
+518,323890,Hotel New Ueno,3.0,8.0,63,Ueno,1
+519,940809536,HOTEL RESOL AKIHABARA,3.0,8.8,63,Kanda Sudacho,98
+520,1353218400,Keio Presso Inn Shinjuku,3.0,8.6,63,Nishi-Shinjuku,63
+521,647145,La'gent Hotel Tokyo Bay,3.0,8.8,63,Urayasu,123
+522,1022130400,HIROKI Building,3.0,6.4,63,Kamata,29
+523,644024,Asakusa Central Hotel,3.0,8.6,63,Asakusa,5
+524,1445993920,Stay SAKURA Tokyo Asakusa Yokozuna Hotel,3.0,9.6,63,Asakusa,5
+525,1367743712,Stay SAKURA Tokyo Shinjuku Hyaku kura,2.5,8.8,63,Hyakunincho,21
+526,1257455232,Super Hotel Premier Akihabara,3.0,8.8,63,Kanda Sudacho,98
+527,426068,K's House Tokyo Oasis - Hostel,2.0,8.8,63,Asakusa,5
+528,1734969440,Super Hotel Tokyo JR Kamata Nishiguchi,3.0,9.0,64,Kamata,29
+529,562160,Richmond Hotel Asakusa,3.0,9.0,64,Asakusa,5
+530,1890400320,Super Hotel Tokyo Akabane eki Minamiguchi,3.0,10.0,64,Akabane,15
+531,468275,Hotel MyStays Ueno Inaricho,3.0,7.8,64,Higashiueno,6
+532,702134016,HOTEL 1899 TOKYO,3.0,9.8,64,Shinbashi,59
+533,630546,Hotel Wing International Select Asakusa Komagata,3.0,9.0,64,Komagata,33
+534,257347,Chisun Hotel Hamamatsucho,3.0,7.4,64,Tamachi,78
+535,390004,Hotel Fukudaya,2.5,7.4,64,Aobadai,145
+536,392479,Hotel Route-Inn Tokyo Asagaya,3.0,8.4,64,Suginami,146
+537,621300,Ochanomizu Inn,3.0,8.0,64,Yushima,135
+538,393689,Ueno First City Hotel,3.5,8.2,64,Taito,11
+539,1457198304,Hotel Livemax Shinjuku Kabukicho Meijidori,2.5,8.4,65,Kabukicho,30
+540,40606848,HOTEL SUNROUTE ASAKUSA,3.0,8.8,65,Kaminarimon,37
+541,770362016,Dormy Inn Korakuen Hot Springs,3.0,8.8,65,Hongo,147
+543,1754964960,Minn Ueno,3.0,8.8,65,Higashiueno,6
+544,396543,Hotel Mielparque Tokyo,3.5,8.2,65,Minato,148
+545,1464026720,Happy Train Vintage Room,3.0,2.0,65,Sendagaya,128
+546,468249,Hotel MyStays Gotanda,2.5,8.2,65,Higashigotanda,31
+547,1476220224,The OneFive Tokyo Kanda,2.5,8.0,65,Uchikanda,103
+549,333244,Chisun Hotel Kamata,3.0,8.2,65,Kamata,29
+550,371791,Tokyu Stay Tsukiji,3.0,8.8,66,Tsukiji,56
+551,618168000,Henn na Hotel Tokyo Nishikasai,3.0,8.6,66,Nishikasai,104
+552,430286,Mita Kaikan,2.5,8.0,66,Shiba,111
+553,276652,Ginza Grand Hotel,3.5,7.6,66,Ginza,54
+554,700393088,MusBee Tokyo Hamamatsucho,3.0,8.0,66,Hamamatsucho,25
+555,144190,Tokyo Toranomon Tokyu REI Hotel,3.0,8.0,66,Minato,148
+556,1085536096,KEIKYU EX INN Hamamatsucho Daimon-Station,3.0,8.0,66,Shibadaimon,87
+557,371776,Tokyu Stay Shibuya,3.0,8.6,66,Shinsencho,149
+558,963286784,UNIVERSAL HANEDA,3.0,9.2,66,Kamata,29
+559,476809,Tobu Hotel Levant Tokyo,3.5,9.0,66,Kinshi,90
+560,1767119360,KAIKE IKEBUKURO,3.0,2.0,66,Toshima,69
+562,701005664,SUPER HOTEL PREMIER MUSASHI KOSUGI EKIMAE,3.0,8.8,66,Nakahara Ward,127
+563,642095,KEIKYU EX INN HANEDA ANAMORI INARI-STATION,3.5,8.6,66,Haneda,53
+564,611662432,Nippon Seinenkan Hotel,3.5,9.2,66,Harajuku,150
+565,401828,Agora Place Asakusa,3.0,8.4,66,Taito,11
+566,468210,Hotel MyStays Hamamatsucho,3.0,8.2,66,Hamamatsucho,25
+567,732825376,HOTEL EMIT SHIBUYA,2.5,8.6,67,Shibuya,134
+568,328172,Sakura Hotel Hatagaya,2.5,8.0,67,Hatagaya,151
+569,226982,the b sangenjaya,3.5,7.8,67,Setagaya,17
+570,625556064,HOTEL THE HOTEL Shinjuku Kabukicho - Adult Only,3.0,6.0,67,Kabukicho,30
+571,468273,Flexstay Inn Shirogane,2.5,7.4,67,Shirokane,152
+572,226219,Hotel Monterey Ginza,3.5,8.6,67,Ginza,54
+573,403205,Family Resort Fifty's for Maihama,3.0,6.6,67,Minamikasai,153
+574,1022137088,Residential Hotel IKIDANE Asakusabashi,3.0,7.6,67,Asakusabashi,0
+575,1810507872,Real Kinshi 201,2.5,10.0,67,Kinshi,90
+576,126094,Daiichi Hotel Annex,4.0,8.2,67,Uchisaiwaicho,154
+577,1777019424,NOMAD Koyama House,3.0,8.0,68,Matsudo,49
+578,1503936384,Hotel Sunroute Ginza,3.5,7.0,68,Chuo,2
+579,239916,Shinjuku Washington Hotel Main,3.5,7.8,68,Nishi-Shinjuku,63
+580,475604,Hotel Gracery Shinjuku,4.0,8.8,68,Kabukicho,30
+581,633940864,NAGOMI HOTEL NIPPORI,2.5,9.0,68,Higashinippori,100
+582,1457061184,BAY HOTEL Tokyo Hamamatsucho,2.5,8.2,68,Hamamatsucho,25
+583,690904800,Hotel Royal Oak Gotanda,2.5,6.6,68,Osaki,141
+585,424957,Ochanomizu Hotel Shoryukan,3.5,9.0,68,Kanda Ogawamachi,93
+586,347601,KKR Hotel Tokyo,3.5,8.4,68,Chiyoda,39
+587,725850784,HOTEL NEW PARK,3.0,7.6,68,Higashiueno,6
+588,1161785376,Aroma Garu Omori - Adults Only,3.0,7.8,68,Ota,58
+589,254541,Hotel Monterey La Soeur Ginza,3.5,8.4,68,Chuo,2
+590,1181451104,JR-EAST HOTEL METS AKIHABARA,3.0,9.4,68,Chiyoda,39
+591,609198656,APA Hotel Akihabaraeki Denkigaiguchi,3.0,8.6,69,Chiyoda,39
+592,1067653984,DDD HOTEL,3.0,9.0,69,Nihonbashi,45
+594,730404800,HOTEL GRACERY ASAKUSA,3.5,9.2,69,Kaminarimon,37
+595,327825,Hotel Sunlite Shinjuku,3.0,7.8,69,Shinjuku,8
+596,308475,Hotel Gracery Tamachi,3.5,8.8,69,Tamachi,78
+597,161114,Hotel Metropolitan Edmont Tokyo,3.5,9.0,70,Iidabashi,95
+598,1083250720,Hotel Trusty Premier Nihonbashi Hamacho,3.5,9.0,70,Nihonbashi,45
+599,724347264,Hotel Francs,3.5,8.6,70,Chiba,65
+600,404841,Hotel MyStays Ueno Iriyaguchi,3.0,7.4,70,Higashiueno,6
+601,1562078976,Kaike Honjo,2.5,10.0,70,Sumida,16
+602,397923,Hotel Bellclassic Tokyo,3.5,9.2,70,Minamiotsuka,116
+603,105492,Hotel Grand Palace,3.5,8.8,70,Iidabashi,95
+604,446921,Vessel Inn Ueno Iriya Ekimae,3.0,9.2,70,Iriya,55
+605,1413955776,Keio Presso Inn Kanda,3.0,6.0,70,Kanda,115
+606,627102,remm Roppongi,3.5,8.8,70,Roppongi,35
+607,144177,Kichijoji Tokyu REI Hotel,3.0,8.8,70,Musashino,20
+608,1123987136,HOTEL LiVEMAX TOKYOSHINTOMICHO,2.5,7.6,71,Chuo,2
+609,468256,Hotel MyStays Ochanomizu Conference Center,3.0,8.4,71,Kanda Awajicho,155
+611,2471264,Shinagawa Tobu Hotel,3.0,8.4,71,Takanawa,106
+612,677952,Henn na Hotel Maihama Tokyo-Bay,3.0,8.6,72,Maihama,122
+613,882905536,the square hotel GINZA,3.5,8.8,72,Ginza,54
+615,371771,Tokyu Stay Yotsuya,3.0,9.0,72,Yotsuya,102
+616,401304,ibis Tokyo Shinjuku,3.0,8.4,72,Nishi-Shinjuku,63
+617,725855392,Hotel SUNTARGAS UENO,2.5,7.4,72,Higashiueno,6
+618,970603840,Hotel Keihan Tokyo Yotsuya,3.5,8.6,72,Yotsuya,102
+619,113908,Shiba Park Hotel,3.5,8.8,72,Shibadaimon,87
+620,1325049088,Toden Hotel,2.5,9.2,73,Minamisenju,36
+621,468276,Flexstay Inn Iidabashi,2.5,7.6,73,Shinjuku,8
+622,371879,Tokyu Stay Aoyama Premier,3.0,8.6,73,Harajuku,150
+623,644035,New Central Hotel,2.5,8.4,73,Kanda,115
+624,646727616,Goen Inn Tokyo,2.5,9.2,73,Hongo,147
+625,1085524864,Ikebukuro Apartment,2.5,4.0,73,Itabashi,3
+626,417728,Hotel Abest Meguro,3.0,6.8,74,Tokyo,61
+627,357764,Hotel Forest Hongo,3.0,9.2,74,Hongo,147
+628,278691,SOTETSU GRAND FRESA Shinagawa Seaside,3.0,8.8,74,Higashishinagawa,76
+629,610571,Hotel Tetora Ikebukuro,2.5,7.4,74,Nishiikebukuro,144
+630,1434483648,JR-EAST HOTEL METS GOTANDA,3.5,8.6,74,Higashigotanda,31
+631,1093686848,ONSEN RYOKAN YUEN SHINJUKU,3.0,9.2,74,Shinjuku,8
+632,371768,Tokyu Stay Yoga,3.0,9.0,74,Setagaya,17
+633,619447392,JR-EAST HOTEL METS MIZONOKUCHI,3.0,9.2,75,Takatsu,126
+634,676556,Hotel Guest1 Ueno Ekimae,3.0,8.6,75,Higashiueno,6
+635,1477336384,Temple Hotel Shoden-ji,2.5,4.0,75,Shiba,111
+636,374304,Daiwa Roynet Hotel Tokyo Akabane,3.0,8.8,75,Akabane,15
+638,338447,Ginza International Hotel,2.5,8.0,75,Ginza,54
+639,1573804896,K&K Apartment Kita-Akabane #202,2.5,10.0,75,Kita,13
+640,251532,Hotel Monterey Akasaka,3.5,8.6,75,Akasaka,47
+641,347169,Hotel Wing International Korakuen,3.0,8.4,75,Suidobashi,86
+642,468227,Hotel MyStays Maihama,3.0,8.4,75,Maihama,122
+643,866546080,Daiwa Roynet Hotel Nishi Shinjuku,3.0,9.2,75,Nishi-Shinjuku,63
+644,653324,Hotel Mid In Akabane Ekimae,3.0,8.2,75,Akabane,15
+645,205955,The Royal Park Hotel Iconic Tokyo Shiodome,4.0,9.0,75,Shiodome,156
+646,134846,Shinjuku Prince Hotel,3.5,8.2,76,Kabukicho,30
+648,608389472,Keio Presso Inn Tokyo Station Yaesu,3.0,8.6,76,Chuo,2
+649,697359,KEIKYU EX INN Haneda,3.0,9.0,76,Haneda,53
+650,704089824,Keio Presso Inn Otemachi,3.0,8.8,76,Nihonbashimuromachi,132
+651,931771648,remm Tokyo Kyobashi,3.5,9.0,76,Chuo,2
+652,588687,Andon Ryokan,2.5,9.2,76,Asakusa,5
+653,609199744,JR-EAST HOTEL METS MEJIRO,3.0,9.0,76,Mejiro,10
+654,735503392,JR-EAST HOTEL METS KOENJI,3.0,9.0,76,Koenjikita,157
+655,404286,Kadoya Hotel,3.0,8.2,76,Nishi-Shinjuku,63
+656,1168399296,Super Hotel Premier Tokyo-eki Yaesu Chuo-guchi,3.0,9.0,77,Chuo,2
+657,1066579744,Rhodes Kagurazaka Hotel,3.0,5.8,77,Shinjuku,8
+658,688126,KEIKYU EX HOTEL Takanawa,3.0,8.2,77,Takanawa,106
+659,1168763584,OYO Hotel New Washington Shibuya,2.5,7.4,77,Shibuya,134
+660,1552637504,Maison AOBA,3.0,6.0,77,Ikebukuro,46
+661,1059096480,TSUKI Tokyo,3.5,9.4,77,Tsukiji,56
+662,555734,Tokyu Stay Ginza,3.0,9.0,77,Ginza,54
+663,1485289312,hotel MONday Tokyo Nishikasai Annex,3.5,9.0,77,Nishikasai,104
+664,1318903744,JHotel Tokyo GEO,2.5,8.0,77,Nihonbashimuromachi,132
+665,1189127424,Cen DIVERSITY HOTEL & CAFE,2.5,8.6,77,Hyakunincho,21
+666,1161077472,PLAYSIS Asakusa,2.5,8.2,77,Sumida,16
+667,404936,The Gate Hotel Asakusa Kaminarimon by Hulic,3.5,9.2,77,Kaminarimon,37
+668,1195432448,remm plus Ginza,3.5,9.2,77,Ginza,54
+669,943960928,Ginza Capital Hotel Moegi,2.5,9.0,77,Tsukiji,56
+670,921256736,karaksa hotel TOKYO STATION,3.0,9.0,77,Yaesu,158
+671,366779,Sakura Fleur Aoyama,3.0,8.6,78,Shibuya,134
+672,116522,Sunshine City Prince Hotel,4.0,8.6,78,Toshima,69
+673,424427,Sotetsu Fresa Inn Shimbashi-Hibiyaguchi,3.0,8.6,78,Minato,148
+676,623956960,LYURO Tokyo Kiyosumi by THE SHARE HOTELS - Hostel,3.0,9.2,78,Kiyosumi,159
+678,802213312,HOTEL ROUTE-INN Grand TOKYO ASAKUSABASHI,3.0,9.0,78,Asakusabashi,0
+679,692275,RYOKAN & DAY SHIZUKU,3.0,9.0,78,Adachi,77
+680,692867072,Mitsui Garden Hotel Gotanda,3.5,8.8,79,Higashigotanda,31
+682,617772672,HOTEL ANN TSUKIJI,3.0,8.6,80,Tsukiji,56
+683,1268194752,HIYORI HOTEL TOKYO GINZA EAST,3.0,8.6,80,Chuo,2
+684,901173600, S-PERIA-INN NIHOMBASHI HAKOZAKI,3.0,8.4,80,Nihombashinakazu,160
+685,1437622048,Under Railway Hotel Akihabara,2.5,9.0,80,Kanda Neribeicho,161
+686,262753,Comfort Hotel Tokyo Kanda,3.0,8.8,80,Kanda Higashimatsushitacho,162
+687,338449,Hotel Sardonyx Tokyo,3.0,9.0,80,Hatchobori,114
+688,388399,Dormy Inn Tokyo-Hatchobori Natural Hot Spring,3.0,8.6,80,Shinkawa,112
+689,1466986880,Asakusa Tobu Hotel,3.5,9.4,80,Asakusa,5
+690,338863,Mitsui Garden Hotel Shiodome Italia-gai,3.5,8.6,80,Shinbashi,59
+691,1774321728,THE GATE HOTEL RYOGOKU by HULIC,3.5,9.0,81,Sumida,16
+692,1076858880,Enzo Tokyo,2.5,7.6,81,Suginami,146
+693,490488,Dormy Inn Ueno Okachimachi Hot Spring,3.0,8.6,81,Ueno,1
+694,328306,Hotel Villa Fontaine Tokyo-Jimbocho,3.0,8.4,81,Jimbocho,139
+695,327754,Shibuya Tobu Hotel,3.0,8.4,81,Udagawacho,163
+696,1558161824,Prince Smart Inn Ebisu,3.5,9.8,81,Ebisuminami,164
+698,926289952,GH One More Heart TSUKIJI 1,3.0,8.0,81,Akashicho,165
+699,144886,Hotel Metropolitan Tokyo Ikebukuro,4.0,8.8,81,Nishiikebukuro,144
+700,1230933440,JR-EAST HOTEL METS TOKYO BAY SHINKIBA,3.0,9.6,81,Yumenoshima,166
+702,399516,Akasaka Yoko Hotel,3.0,7.6,82,Akasaka,47
+703,667056992,Richmond Hotel Tokyo Shiba,3.0,8.4,82,Minato,148
+704,1471433024,COTO Tokyo Shinjuku 2,3.5,10.0,82,Nakano,167
+705,1907144960,COTO Tokyo Koenji,3.0,10.0,82,Asagayakita,168
+706,869406400,COTO Tokyo Shibuya 4,2.5,9.0,82,Ikejiri,169
+707,1441018944,Nano North Shinjuku Apartment,3.0,4.0,82,Shinjuku,8
+708,1221707328,Nano East Ikebukuro Apartment,3.0,8.6,82,Higashiikebukuro,119
+709,718304032,HOTEL KEIHAN TSUKIJI GINZA GRANDE,3.5,8.8,82,Akashicho,165
+713,1728432832,RESIDENTIAL HOTEL AMIKA-F Sangenjaya 301,3.0,4.6,82,Sangenjaya,170
+714,1231111488,Park Residence Omori,3.0,8.0,83,Ota,58
+715,778380576,BAY HOTEL Urayasu station,3.0,8.8,83,Urayasu,123
+716,700682848,Comfort Suites Tokyo Bay,3.0,9.2,83,Urayasu,123
+719,453744,Tokyu Stay Shimbashi,3.0,8.8,83,Shinbashi,59
+721,143649,Daiichi Hotel Tokyo Seafort,4.0,9.0,84,Higashishinagawa,76
+722,328476,Hotel Villa Fontaine Tokyo-Ueno Okachimachi,3.0,8.2,84,Taito,11
+723,256825,HOTEL MYSTAYS Ueno East,3.0,8.2,84,Higashiueno,6
+724,415873,Grand Central Hotel,3.0,8.0,84,Uchikanda,103
+726,346635,remm Hibiya,3.5,8.6,84,Yurakucho,171
+727,652562368,Candeo Hotels Tokyo Shimbashi,3.0,8.8,84,Shinbashi,59
+728,1021958176,STUDIO INN NISHISHINJUKU,3.0,9.6,84,Nishi-Shinjuku,63
+729,448063,Flexstay Inn Shinagawa,2.5,8.2,84,Shinagawa,85
+730,849771328,Hotel AMANEK Asakusa Ekimae,3.0,8.4,84,Komagata,33
+732,355849,Bayside Hotel Azur Takeshiba Hamamatsucho,3.0,8.0,84,Kaigan,109
+733,323244,Hearton Hotel Higashishinagawa,3.0,8.2,85,Higashishinagawa,76
+734,1334235456,Hotel Yae no Midori Tokyo,3.5,8.6,85,Hatchobori,114
+738,732672224,Tmark City Hotel Tokyo Omori,3.5,9.0,85,Ota,58
+739,550354,Hotel Cadenza Hikarigaoka,3.5,8.4,85,Takamatsu,172
+740,678830,Hiyori Hotel Maihama,3.0,9.4,85,Maihama,122
+741,404663,Hotel Nihonbashi Saibo,3.0,8.4,85,Nihonbashiningyocho,173
+742,365075,Smile Hotel Tokyo Nihonbashi,3.0,8.0,86,Chuo,2
+743,1189914336,Hotel JAL City Tokyo Toyosu,3.5,9.0,86,Toyosu,174
+744,422620,Hotel Coco Grand Kitasenju,3.0,9.0,86,Adachi,77
+745,1215231552,Hotel Arcsens,3.0,9.2,86,Sumida,16
+746,343453,Tokyo Grand Hotel,3.0,8.2,86,Shiba,111
+748,389728,HOTEL LiVEMAX Higashi-Ueno,2.5,7.6,87,Ueno,1
+749,652299,Budo no Nagaya,2.5,7.2,87,Sumida,16
+750,328215,Hotel Villa Fontaine Tokyo-Nihombashi Mitsukoshimae,3.0,8.0,87,Nihonbashi,45
+751,228155,Hotel JAL City Haneda Tokyo,3.5,8.4,87,Ota,58
+752,326034,Hotel Grand Arc Hanzomon,3.5,8.8,87,Hayabusacho,175
+753,328481,Hotel Villa Fontaine Tokyo-Kayabacho,3.0,8.0,87,Shinkawa,112
+754,956315424,The Royal Park Canvas - Ginza 8,3.5,8.8,88,Ginza,54
+755,450722,Shinjuku Washington Hotel Annex,3.0,7.6,88,Nishi-Shinjuku,63
+758,659471392,NEST HOTEL TOKYO HANZOMON,3.0,8.6,88,Hayabusacho,175
+759,1081231264,Act Hotel Shibuya,3.0,9.0,89,Ohashi,176
+760,1417194880,Edo Fukagawa 2A,3.0,8.0,89,Kiyosumi-Shirakawa,83
+761,365070,Kuretake Inn Premium Hamamatsucho,3.0,8.0,89,Shiba,111
+762,702337,Center Hotel Tokyo,3.0,6.8,89,Nihonbashikabutocho,101
+763,557852,Hotel Springs Makuhari,3.5,8.2,89,Chiba,65
+764,971449664,PLAYSIS EAST TOKYO,3.0,8.8,90,Azumabashi,57
+768,1127177632,Numero Uno Tokyo,2.5,7.8,90,Kamata,29
+769,906620928,STYLEWOOD SANGENJYAYA,3.0,8.0,90,Sangenjaya,170
+770,1053459616,Soshigaya Apartment,3.0,7.4,90,Setagaya,17
+773,701803520,WAGOKORO - Hostel,2.0,9.4,91,Higashinippori,100
+774,1182566944,Onyado Nono Asakusa Natural Hot Springs,3.0,9.2,91,Asakusa,5
+775,632109792,NEXUS DOOR TOKYO,3.0,9.0,91,Nishishinbashi,66
+779,314516,Sotetsu Fresa Inn Shinbashi-Karasumoriguchi,3.0,8.2,92,Shinbashi,59
+781,803047872,COTO Tokyo Asakusa 5,3.0,9.8,92,Oshiage,140
+782,1046409472,YOU-TRIP Oshiage Hotel,3.0,8.2,92,Sumida,16
+783,612460736,COTO Tokyo Shibuya 2,2.5,9.6,92,Sangenjaya,170
+784,1073653344,Daiwa Roynet Hotel Shimbashi,3.0,9.0,92,Minato,148
+785,691955104,COTO Tokyo Shibuya 3,3.0,9.2,92,Setagaya,17
+786,334717,Kichijoji Daiichi Hotel,3.5,9.0,92,Musashino,20
+787,452172,Shinjuku Granbell Hotel,4.0,8.2,93,Kabukicho,30
+788,267065,Daiwa Roynet Hotel Tokyo Osaki,3.0,8.6,93,Osaki,141
+789,457601,Shibuya Granbell hotel,3.5,8.2,93,Sakuragaokacho,75
+790,644044,COTO Tokyo Asakusa 3,3.0,9.8,93,Higashitateishi,177
+791,328305,Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki,3.0,8.2,93,Nihonbashi,45
+794,652575360,HOTEL MUSSE GINZA MEITETSU,3.5,9.0,93,Ginza,54
+795,696463488,Mitsui Garden Hotel Otemachi,3.5,9.0,93,Uchikanda,103
+796,391027,Solaria Nishitetsu Hotel Ginza,3.5,8.8,94,Ginza,54
+798,328477,Hotel Villa Fontaine Tokyo-Otemachi,3.0,8.2,94,Uchikanda,103
+799,485912,Tokyu Stay Shinjuku,3.0,9.0,94,Shinjuku,8
+800,558319,Richmond Hotel Premier Asakusa International,3.5,9.2,95,Asakusa,5
+801,328478,Hotel Villa Fontaine Tokyo-Shinjuku,3.0,8.2,95,Kabukicho,30
+802,345573,Hotel Grand City,3.0,8.2,95,Toshima,69
+803,371800,Tokyu Stay Monzen-Nakacho,3.0,8.8,95,Koto,34
+804,324753,Oriental Hotel Tokyo Bay,3.5,8.8,95,Urayasu,123
+805,558314,Richmond Hotel Premier Tokyo Oshiage,3.5,9.2,95,Oshiage,140
+806,756719488,COTO Tokyo Asakusa 4,3.0,8.6,95,Sumida,16
+807,1658706944,IT1 - Nishishinbashi Building,3.0,10.0,96,Nishishinbashi,66
+808,356384,Dormy Inn EXPRESS Meguro Aobadai Hot Spring,3.0,8.8,96,Aobadai,145
+810,1437073600,Tokyo Bay Shiomi Prince Hotel,3.5,8.4,97,Shiomi,178
+812,470950,Hotel Mystays Haneda,3.5,8.6,98,Haneda,53
+816,327824,Hotel Ryumeikan Tokyo,3.5,7.0,98,Yaesu,158
+817,536953,Daiwa Roynet Hotel Ginza,3.5,9.0,98,Chuo,2
+818,543990,SPA & HOTEL MAIHAMA EURASIA,3.5,8.6,99,Maihama,122
+819,1248736544,Mitsui Garden Hotel Roppongi Tokyo Premier,3.5,9.2,100,Roppongi,35
+820,942297344,DJ Hostel Ginza,1.0,8.4,100,Chuo,2
+821,1249978976,Prostyle Ryokan Tokyo Asakusa,3.0,9.2,101,Asakusa,5
+822,226165,Haneda Excel Hotel Tokyu,3.5,8.8,101,Ota,58
+823,601672,Hotel the Manhattan,4.0,9.4,101,Chiba,65
+824,1850453440,The Gratias Hotel Tokyo Sky Tree2,2.5,2.0,101,Sumida,16
+825,613167040,Candeo Hotels Tokyo Roppongi,3.5,8.8,101,Roppongi,35
+826,328214,Hotel Villa Fontaine Tokyo-Hamamatsucho,3.0,8.2,102,Shiba,111
+827,1730063200,Asakusa Kokonokurabu,3.5,9.2,102,Asakusa,5
+828,388404,Dormy Inn Express Soka City,3.0,8.4,102,Soka,179
+829,1893616352,MONday Apart Premium Akihabara Asakusabashi Sta.,3.5,9.4,102,Asakusabashi,0
+830,1893614304,MONday Apart Premium Akihabara,3.5,10.0,102,Kanda Sakumacho,41
+832,1624002720,REGALO Shibaura 601,3.0,6.0,102,Minato,148
+833,1628957376,U-Hotel Takadanobaba,3.0,9.6,102,Takadanobaba,180
+835,418261,SHIBUYA HOTEL EN,3.0,8.8,102,Dogenzaka,181
+836,328479,Hotel Villa Fontaine Tokyo-Hatchobori,3.0,8.2,102,Chuo,2
+837,371784,Tokyu Stay Shibuya Shin-minamiguchi,3.0,8.4,103,Shibuya,134
+838,676438272,TOKYO BAY TOKYU HOTEL,3.5,9.2,103,Urayasu,123
+839,1148162848,IKIDANE Residential Hotel Higashiikebukuro,3.0,6.0,103,Higashiikebukuro,119
+840,659556128,Stay SAKURA Tokyo Asakusa Townhouse,3.0,9.4,103,Asakusa,5
+841,1735001280,eos HOTEL Oimachi,3.0,10.0,103,Shinagawa,85
+842,415966,HOTEL MYSTAYS PREMIER Hamamatsucho,3.5,8.8,104,Hamamatsucho,25
+844,1434268224,Mitsui Garden Hotel Toyosu BAYSIDE CROSS Tokyo,3.5,8.8,104,Toyosu,174
+846,593796,HOTEL MYSTAYS PREMIER Akasaka,3.5,8.8,104,Akasaka,47
+847,924464512,SHIBUYA STREAM EXCEL HOTEL TOKYU,3.5,9.2,105,Shibuya,134
+851,621547,Dormy Inn Premium Tokyo Kodenmacho Hot Spring,3.0,9.2,105,Nihonbashihoridomecho,68
+852,395545,Hotel Coco Grand Ueno Shinobazu,3.5,9.0,106,Taito,11
+853,177544,Akasaka Excel Hotel Tokyu,3.5,8.4,106,Chiyoda,39
+857,325743,Yaesu Terminal Hotel,3.0,8.0,106,Chuo,2
+859,1733490400,Gennoya,2.5,6.0,107,Yotsuya,102
+860,1067082912,Shin,3.0,9.6,107,Asakusa,5
+861,777101600,Hotel SAILS,3.0,9.0,108,Asakusa,5
+862,1702028352,WIRES HOTEL James zaka,3.0,9.6,108,Shinagawa,85
+864,887287776,SUPERHOTEL Premier GINZA,3.0,9.2,109,Ginza,54
+865,601656,Asakusa View Hotel,4.0,8.8,109,Nishiasakusa,4
+866,731127456,The Hideout Tokyo,3.0,10.0,110,Ueno,1
+867,1010828608,HOTEL EURASIA MAIHAMA ANNEX,3.0,7.6,110,Maihama,122
+868,395602,HOTEL LiVEMAX Nippori,2.5,6.4,110,Sendagi,48
+870,1327639648,DaiwaRoynetHotel Tokyo Kyobashi,3.0,9.2,110,Chuo,2
+872,1482667552,sequence MIYASHITA PARK,3.0,8.2,110,Shibuya,134
+873,1836210304,ReLA Higashimatsudo,3.0,8.6,110,Matsudo,49
+874,507222,FutakoTamagawa Excel Hotel Tokyu,3.5,8.6,111,Tamagawa,182
+875,1157283424,Mitsui Garden Hotel Jingugaien Tokyo Premier,3.5,9.2,111,Shinjuku,8
+876,224279,Mercure Hotel Ginza Tokyo,3.5,8.4,111,Ginza,54
+877,407088,Pearl Hotel Yaesu,3.0,7.6,111,Yaesu,158
+878,190674,Shibuya Excel Hotel Tokyu,3.5,8.8,111,Dogenzaka,181
+879,601068,WALLABY HOUSE,3.0,9.4,111,Kawaguchi,38
+880,328482,Hotel Villa Fontaine Tokyo-Kudanshita,3.0,8.4,112,Nishikanda,183
+881,659535392,LEO Nibankan 305,3.0,9.2,112,Funabashi,22
+882,451662,Courtyard by Marriott Tokyo Station,4.0,8.4,112,Chuo,2
+883,1081342528,Floral Iron Tower Hotel Tokyo,3.0,6.8,112,Higashiazabu,19
+884,415869,HOTEL MYSTAYS PREMIER Omori,3.5,8.6,113,Minamioi,130
+886,749209440,Mitsui Garden Hotel Nihonbashi Premier,3.5,9.2,114,Nihonbashimuromachi,132
+887,141370,Hotel New Otani Makuhari,4.0,9.0,114,Chiba,65
+890,1485279168,GATE STAY Nihonbashi Suitengumae,3.5,9.6,115,Nihonbashi,45
+891,407074,Dormy Inn Premium Shibuya Jingumae Hot Spring,3.0,8.6,115,Jingumae,184
+892,1437755424,043Akihabara,2.5,10.0,115,Taito,11
+893,999090112,GLOU Higashi Shinjuku,2.5,9.0,115,Okubo,32
+894,125443,Tokyo Prince Hotel,4.0,8.4,116,Minato,148
+895,1132390624,Mitsui Garden Hotel Ginza-gochome,3.5,9.0,117,Ginza,54
+896,931663808,Best Western Hotel Fino Tokyo Akihabara,3.0,9.0,117,Taito,11
+897,650324768,JR-EAST HOTEL METS SHIBUYA,3.5,8.8,118,Shibuya,134
+898,556127,Tokyo Dome Hotel,4.0,9.0,118,Korakuen,72
+899,227796,Hotel The Celestine Tokyo Shiba,4.0,9.2,119,Shiba,111
+900,650250,Hotel Mid In Meguro-Ekimae,3.0,6.8,119,Shimomeguro,185
+902,1485270400,MONday Apart Shin Okachimachi,3.0,9.6,119,Higashiueno,6
+903,1485299648,GATE STAY PREMIUM Hamamatsucho,3.5,8.6,119,Shibadaimon,87
+904,1485294976,MONday Apart Daimon,3.5,8.6,119,Shibadaimon,87
+905,1485303904,GATE STAY HATCHOBORI,3.5,10.0,119,Irifune,186
+906,144189,Shibuya Tokyu REI Hotel,3.0,8.4,119,Shibuya,134
+907,1253435264,HOTEL D-WAVE Shinjuku - Adult Only,3.0,10.0,120,Kabukicho,30
+909,1102232704,HOTEL LiVEMAX TAKADANOBABA-EKIMAE,2.5,7.8,121,Takadanobaba,180
+910,1730000704,M-1 Stay Tokyo Ikebukuro,2.5,4.0,121,Kita,13
+911,1010673728,BESPOKE HOTEL Shinjuku,3.5,8.8,122,Kabukicho,30
+912,1735001568,Mukojima House,3.0,2.0,122,Sumida,16
+913,1735006912,eos HOTEL Skytree,3.0,2.0,122,Sumida,16
+914,869502048,NOHGA HOTEL UENO TOKYO,3.5,9.2,122,Higashiueno,6
+915,593012,Mitsui Garden Hotel Kyobashi,3.5,9.0,122,Chuo,2
+916,1712265056,REIMI MONDO,3.0,6.0,123,Ikebukuro,46
+917,433946,Roppongi Hotel S,3.5,8.8,123,Nishiazabu,70
+922,644202,COTO Tokyo Asakusa 2,3.0,9.0,124,Oshiage,140
+923,719667424,MIMARU TOKYO NIHOMBASHI SUITENGUMAE,2.5,9.4,125,Nihonbashi,45
+924,116523,Grand Prince Hotel Shin Takanawa,4.0,8.8,125,Takanawa,106
+925,328216,Hotel Villa Fontaine Grand Tokyo-Tamachi,3.0,8.6,125,Tamachi,78
+926,593450,Hotel & Spa J-MEX - Adults Only,3.0,9.8,125,Kabukicho,30
+927,1735001152,eos HOTEL Sumida,3.5,7.0,126,Sumida,16
+930,672818,Sanco Inn Grande Tokyo Hamamatsucho,3.0,9.0,126,Hamamatsucho,25
+931,1628104704,Shinjuku Garden House,2.5,8.0,128,Shinjuku,8
+932,105822,RIHGA Royal Hotel Tokyo,4.0,9.0,128,Nishiwaseda,187
+939,1735001408,Liv City Shinjuku I,3.0,10.0,130,Shinjuku,8
+940,940516352,THE GATE HOTEL TOKYO by HULIC,3.5,9.2,130,Ginza,54
+942,138781,Grand Nikko Tokyo Daiba,4.5,9.0,131,Daiba,188
+943,129082,Royal Park Hotel Tokyo Nihonbashi,4.0,8.8,131,Nihonbashi,45
+944,692667,Mitsui Garden Hotel Prana Tokyo Bay,3.5,9.0,131,Urayasu,123
+945,377818,Grand Nikko Tokyo Bay Maihama,4.0,9.0,132,Maihama,122
+946,670698,Dormy Inn Premium Kanda,3.0,9.2,133,Kanda Sudacho,98
+947,1224169824,The Lively Azabujuban Tokyo,3.0,9.4,133,Azabu-Juban,189
+949,1129566816,TOKYO Condominiun HOTEL ASAKUSA EIGHT,3.0,9.4,135,Ueno,1
+951,1129885184,Okachimachi Urban Hotel,2.5,9.0,135,Chiyoda,39
+952,327117,TOKYO BAY MAIHAMA HOTEL FIRST RESORT,3.5,8.4,135,Maihama,122
+956,654933,Samurai House YUKIMURA,2.5,9.6,136,Haneda,53
+958,642825696,MOXY Tokyo Kinshicho by Marriott,3.5,8.6,137,Sumida,16
+959,253706,Courtyard by Marriott Tokyo Ginza,4.0,8.4,138,Ginza,54
+960,1128698944,THE BLOSSOM HIBIYA,3.5,9.4,138,Minato,148
+962,715301888,COCO SHUKU NAKANO,3.0,8.6,139,Nakano,167
+963,926968736,KEIKYU EX INN OMORI KAIGAN-STATION,3.0,8.4,139,Minamioi,130
+964,599795232,Ueno Urban Hotel,3.0,8.6,139,Ueno,1
+965,208182,Park Hotel Tokyo,4.0,9.0,139,Shiodome,156
+966,388395,Dormy Inn Akihabara Hot Spring,3.0,9.0,139,Chiyoda,39
+967,1424995456,Mr. Kintaro Hotel Kameido,3.0,6.6,140,Kameido,107
+968,1822761792,Section L Ginza East ,3.0,9.4,140,Chuo,2
+969,111600,Hyatt Regency Tokyo,4.5,8.8,140,Nishi-Shinjuku,63
+970,1422579008,Meguro Holic Hotel,3.5,8.0,140,Meguro,190
+971,1233259968,Primavera Kamata 303,3.0,5.6,140,Ota,58
+972,1408394688,NOHGA HOTEL AKIHABARA TOKYO,3.0,10.0,143,Chiyoda,39
+973,780107296,Smi:re Stay Oshiage,3.0,9.0,143,Sumida,16
+976,1229780096,Quintessa Hotel Tokyo Ginza,3.0,8.6,145,Ginza,54
+977,152805,Hotel Okura Tokyo Bay,4.5,9.0,146,Maihama,122
+978,1735001120,eos HOTEL Nakano,3.0,6.0,146,Shinjuku,8
+980,1735001984,Higashimukojima House,3.5,6.0,146,Sumida,16
+981,328480,Hotel Villa Fontaine Grand Tokyo-Shiodome,3.5,8.6,146,Shiodome,156
+982,1194050784,MIMARU TOKYO UENO OKACHIMACHI,2.5,9.2,147,Ueno,1
+984,143931,Century Southern Tower Hotel,4.0,9.2,148,Yoyogi,80
+985,691409984,Hotel Tsukushi,2.5,7.0,148,Ueno,1
+987,921269856,karaksa hotel premier Tokyo Ginza,3.5,9.8,149,Shiodome,156
+988,1154046880,Shimbashi Urban Hotel,3.0,8.4,150,Shinbashi,59
+990,1577637888,H2O Stay Hiroo Spacious House,3.0,6.0,151,Shirokane,152
+992,1618642272,Akasaka Residence,3.0,6.6,153,Akasaka,47
+994,1413143040,KAIKA TOKYO by THE SHARE HOTELS,3.0,9.2,153,Sumida,16
+999,1618141664,Ritz Residence Sumida,3.0,10.0,153,Sumida,16
+1001,1728441088,HOTEL HANA,3.0,10.0,154,Sumida,16
+1002,1834112448,East One,3.0,10.0,154,Shinjuku,8
+1006,625546944,HOTEL ATLAS Shinjuku Kabukicho - Adult Only,2.5,8.6,156,Kabukicho,30
+1007,768179232,Ebisuholic Hotel,3.5,8.4,157,Ebisuminami,164
+1008,219118,Daiichi Hotel Tokyo,4.0,9.0,157,Minato,148
+1009,345963,Nakano Sunplaza Hotel,3.0,8.4,158,Nakano,167
+1010,1179526048,Ueno TS Shinobazu Hotel 6A,2.5,8.0,158,Taito,11
+1011,105351,Sheraton Grande Tokyo Bay Hotel,4.5,8.6,158,Maihama,122
+1013,1067075136,Sai,3.0,10.0,159,Nishiasakusa,4
+1014,359540,Hotel Niwa Tokyo,4.0,9.2,159,Suidobashi,86
+1015,752208224,RESIDENTIAL HOTEL IKIDANE Machiya,3.0,9.2,162,Arakawa,191
+1016,112853,Hotel New Otani Tokyo The Main,4.5,9.0,162,Kioicho,192
+1017,257350,Mitsui Garden Hotel Ginza Premier,4.0,9.0,163,Ginza,54
+1018,139391,Hilton Tokyo Bay,4.0,9.0,164,Maihama,122
+1019,679206,Hotel The Celestine Ginza ,4.0,9.4,166,Ginza,54
+1020,1574047360,Dougenzaka 2chome 404,2.5,6.0,166,Dogenzaka,181
+1021,1195427424,H2O Stay Morishita,3.0,9.4,166,Morishita,193
+1024,477780,Hotel New Otani Tokyo Garden Tower,4.5,8.8,169,Kioicho,192
+1028,1300161888,HOTEL LiVEMAX Asakusa Eki-mae,2.5,8.2,173,Komagata,33
+1029,629516,HOTEL AN SHINJUKU Kabukicho - Adults Only,3.0,8.6,175,Kabukicho,30
+1030,1507221696,SALON Shibuya,3.0,9.0,176,Udagawacho,163
+1031,582080,ARTIST HOTEL - BnA HOTEL Koenji,2.5,8.2,179,Koenjikita,157
+1033,1717035584,Space Kuro Kamata,3.0,8.0,182,Kamata,29
+1036,454612,Hotel Emion Tokyo Bay,3.5,9.4,184,Urayasu,123
+1038,461862,Millennium Mitsui Garden Hotel Tokyo,4.0,9.0,184,Ginza,54
+1041,1123989184,HOTEL LiVEMAX AKABANE-EKIMAE,2.5,9.0,188,Akabane,15
+1042,687640288,HOTEL PERRIER Adult Only,3.0,8.6,189,Kabukicho,30
+1044,1659417856,Onsen Ryokan Yuen Bettei Tokyo Daita,3.5,9.6,192,Setagaya,17
+1049,342785,Hilltop Hotel,3.5,8.8,196,Kanda Surugadai,194
+1050,950150176,Pullman Tokyo Tamachi,4.5,9.4,198,Tamachi,78
+1051,106211,Keio Plaza Hotel Tokyo,4.5,8.6,199,Nishi-Shinjuku,63
+1052,1165110592,Bamboo Garden Tokyo - Adults Only,3.0,9.2,199,Sumida,16
+1054,599249,Hotel Allamanda Aoyama Tokyo,4.5,8.6,202,Kitaaoyama,195
+1055,652973,Train Hostel HOKUTOSEI,1.0,7.8,202,Nihonbashi,45
+1056,1409207072,Grace HEIWAJIMA 202,3.0,10.0,203,Ota,58
+1062,1127187392,Samurais Villa Nishiooi 	,2.5,10.0,206,Tokyo,61
+1063,1241750624,Kagamiyama Residence 301,3.0,8.0,207,Ikebukuro,46
+1065,1545292736,Asakusa East Terrace - KANDO -,3.0,10.0,207,Higashiyotsugi,196
+1066,328307,Hotel Villa Fontaine Grand Tokyo-Roppongi,3.5,8.6,209,Roppongi,35
+1067,194685,Cerulean Tower Tokyu Hotel,4.5,9.4,210,Sakuragaokacho,75
+1072,119987,InterContinental Tokyo Bay,4.5,9.0,213,Kaigan,109
+1075,1341928544,MIMARU TOKYO SHINJUKU WEST,2.5,9.8,217,Shinjuku,8
+1076,1189978496,MIMARU TOKYO GINZA EAST,2.5,9.6,217,Chuo,2
+1077,696508640,MIMARU TOKYO AKASAKA,2.5,9.6,217,Akasaka,47
+1078,365023,HUNDRED STAY Tokyo Shinjuku,4.0,9.2,221,Hyakunincho,21
+1079,235252,Hilton Tokyo,4.5,8.4,223,Nishi-Shinjuku,63
+1081,923020512,Marunouchi Hotel,4.0,9.2,225,Marunouchi,197
+1082,1085482432,East Shinagawa Apartment,2.5,7.6,225,Higashishinagawa,76
+1083,490475,HOTEL LiVEMAX Nihombashi Hakozaki,2.5,7.8,226,Nihonbashi,45
+1084,1458415136,Best Western Hotel Fino Tokyo Akasaka,3.5,8.6,227,Akasaka,47
+1085,127950,Hilton Tokyo Odaiba,4.5,8.6,227,Daiba,188
+1088,228229,The Prince Park Tower Tokyo,5.0,9.2,230,Minato,148
+1089,644619840,Hyatt Centric Ginza Tokyo,4.0,9.2,230,Ginza,54
+1092,567938,Urayasu Brighton Hotel Tokyo bay,4.5,9.2,232,Urayasu,123
+1093,1204958496,Kokoro,3.0,10.0,234,Sumida,16
+1094,1451726272,Hotel Villa Fontaine Grand Tokyo Ariake,3.5,8.8,234,Ariake,91
+1095,1440468288,HOTEL K5,3.0,9.6,238,Nihonbashikabutocho,101
+1096,1130583648,Book Tea Bed SHINJUKU-GYOEN,3.0,9.0,238,Shinjuku,8
+1097,126669,InterContinental ANA Tokyo,4.5,8.6,240,Akasaka,47
+1099,536333,Bamba Hotel,3.0,9.0,245,Shinagawa,85
+1101,223715,Tokyo Marriott Hotel,4.5,8.4,249,Shinagawa,85
+1102,119381,Sheraton Miyako Hotel Tokyo,4.0,8.8,250,Shirokanedai,198
+1103,266494,The Strings by InterContinental Tokyo,4.5,9.0,252,Shinagawa,85
+1104,418275,Hotel Chinzanso Tokyo,5.0,9.6,255,Sekiguchi,199
+1106,1157371904,The Kitano Hotel Tokyo,4.0,9.2,258,Hirakawacho,67
+1108,160504,Ginza Creston,3.5,8.4,262,Akashicho,165
+1109,418958432,Oakwood Premier Tokyo,4.5,9.4,262,Nihonbashi,45
+1111,1029911712,Otsuka No Yado,3.0,10.0,266,Minamiotsuka,116
+1112,574575200,Ascott Marunouchi Tokyo,4.5,9.4,266,Otemachi,200
+1115,1123982880,HOTEL LiVEMAX ASAKUSABASHI-EKI KITAGUCHI,2.5,8.6,268,Yanagibashi,62
+1119,773190240,MIMARU TOKYO UENO EAST,2.5,9.2,281,Ueno,1
+1120,641935584,MIMARU TOKYO UENO NORTH,2.5,9.2,281,Ueno,1
+1122,211493,Grand Hyatt Tokyo,5.0,9.2,287,Nishiazabu,70
+1124,1179565728,ASAKUSA -CHAKA-,3.0,10.0,292,Asakusa,5
+1125,644982,Araiya,3.5,9.4,292,Takanawa,106
+1130,145443,"The Prince Sakura Tower Tokyo, Autograph Collection",4.5,9.2,307,Takanawa,106
+1131,114076,The Capitol Hotel Tokyu,5.0,9.6,308,Nagatacho,201
+1132,108609,The Westin Tokyo,5.0,9.0,309,Ebisu,27
+1134,205472,Four Seasons Hotel Tokyo at Marunouchi,5.0,9.0,312,Chuo,2
+1135,1364038336,illi Shimokitazawa,2.5,8.2,316,Shimokitazawa,120
+1136,650262,HOTEL AXAS NIHONBASHI,3.5,9.4,319,Nihonbashi,45
+1138,231056,Conrad Tokyo,5.0,9.4,320,Shiodome,156
+1139,160947,The Tokyo Station Hotel,4.5,9.6,320,Marunouchi,197
+1140,452693,Andaz Tokyo Toranomon Hills - a concept by Hyatt,5.0,9.4,322,Toranomon,202
+1145,1053471360,Indoor Camping Asakusa Ueno,3.0,8.0,338,Ueno,1
+1146,1366103488,Four Seasons Hotel Tokyo at Otemachi,5.0,9.4,343,Otemachi,200
+1148,255753,The Peninsula Tokyo,5.0,9.2,347,Yurakucho,171
+1149,1341247712,Fraser Suites Akasaka Tokyo,4.0,8.4,348,Akasaka,47
+1150,1342487872,Condominium Shibuya Goten,3.0,10.0,349,Setagaya,17
+1151,118482,Imperial Hotel,5.0,9.4,351,Uchisaiwaicho,154
+1152,108657,Park Hyatt Tokyo,5.0,9.6,358,Nishi-Shinjuku,63
+1154,572398,HOTEL GAJOEN TOKYO,4.5,9.6,364,Shimomeguro,185
+1155,1665949696,illi Nakano,3.5,10.0,370,Nakano,167
+1156,1504552352,THE AOYAMA GRAND HOTEL,4.0,10.0,371,Kitaaoyama,195
+1157,234710,Mandarin Oriental Tokyo,5.0,9.2,381,Nihonbashimuromachi,132
+1160,1424927488, Hotel Tokyo Yumemachi,3.0,6.0,387,Ryogoku,9
+1166,1364216608,Kimpton Shinjuku Tokyo,5.0,9.4,398,Nishi-Shinjuku,63
+1167,1366909408,"mesm Tokyo, Autograph Collection",4.5,8.0,401,Kaigan,109
+1168,545542,Hotel New Otani Tokyo EXECUTIVE HOUSE ZEN,5.0,9.4,411,Kioicho,192
+1169,1567815872,"The Tokyo EDITION, Toranomon",5.0,7.6,412,Toranomon,202
+1172,1067678368,The Okura Tokyo,5.0,9.0,450,Toranomon,202
+1174,1238994208,Yadoya Uguisu,3.5,10.0,456,Ueno,1
+1175,145411,Palace Hotel Tokyo,5.0,9.6,468,Marunouchi,197
+1176,308704,"Shangri-La Hotel, Tokyo",5.0,9.4,468,Nihonbashi,45
+1177,1210144,"The Prince Gallery Tokyo Kioicho, A Luxury Collection Hotel",5.0,9.4,468,Kioicho,192
+1185,1233932832,SHINJUKU GLOBAL HOTEL,2.5,8.0,536,Hyakunincho,21
+1186,252642,"The Ritz-Carlton, Tokyo",5.0,9.4,590,Akasaka,47
+1187,1769961856,Nishiogi House Maipenrai,2.5,10.0,724,Suginami,146
+1188,1287478528,eos HOTEL Kinshicho,3.0,5.0,763,Sumida,16
+1189,701482496,Randor Residence Tokyo Suites 	,3.0,8.6,851,Arakawa,191
+1190,629308,HOSHINOYA Tokyo,5.0,9.4,865,Otemachi,200
+1194,1365725824,eos HOTEL Ikebukuro,3.0,2.0,6905,Toshima,69
+1197,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1201,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1208,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1215,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1218,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1222,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1226,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1233,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1240,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1243,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1247,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1251,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1258,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1265,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1268,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1272,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1276,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1283,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1290,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1293,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1297,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1301,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1308,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1315,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1318,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1322,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1326,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1333,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1340,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1343,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1347,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1351,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1358,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1365,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1368,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1372,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1376,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1383,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1390,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1393,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1397,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1401,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1408,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1415,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1418,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1422,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1426,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1433,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1440,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1443,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1447,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1451,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1458,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1465,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1468,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1472,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1476,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1483,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1490,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1493,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1497,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1501,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1508,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1515,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1518,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1522,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1526,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1533,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1540,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1543,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1547,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1551,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1558,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1565,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1568,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1572,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1576,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1583,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1590,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1593,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1597,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1601,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1608,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1615,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1618,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1622,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1626,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1633,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1640,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1643,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1647,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1651,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1658,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1665,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1668,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1672,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1676,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1683,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1690,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1693,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1697,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1701,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1708,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1715,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1718,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1722,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1726,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1733,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1740,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1743,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1747,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1751,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1758,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1765,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1768,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1797,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1801,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1808,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1815,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1818,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1822,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1826,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1833,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1840,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1843,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1847,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1851,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1858,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1865,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1868,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1872,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1876,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1883,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1890,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1893,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1897,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1901,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1908,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1915,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1918,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1922,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1926,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1933,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1940,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1943,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1947,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1951,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1958,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1965,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1968,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1972,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+1976,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+1983,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+1990,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+1993,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+1997,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2001,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2008,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2015,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2018,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2022,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2026,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2033,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2040,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2043,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2047,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2051,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2058,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2065,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2068,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2072,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2076,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2083,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2090,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2093,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2097,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2101,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2108,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2115,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2118,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2122,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2126,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2133,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2140,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2143,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2147,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2151,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2158,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2165,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2168,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2172,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2176,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2183,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2190,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2193,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2197,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2201,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2208,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2215,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2218,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2222,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2226,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2233,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2240,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2243,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2247,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2251,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2258,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2265,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2268,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2272,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2276,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2283,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2290,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2293,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2297,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2301,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2308,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2315,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2318,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2322,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2326,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2333,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2340,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2343,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2347,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2351,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2358,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2365,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2368,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2372,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2376,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2383,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2390,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2393,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2397,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2401,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2408,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2415,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2418,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2422,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2426,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2433,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2440,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2443,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
+2447,312061024,Hotel Lungwood,3.5,7.6,41,Higashinippori,100
+2451,1167570304,Hotel Sunpatio ,3.0,6.0,45,Nishikasai,104
+2458,1179274208,Kawasaki Daiichi Hotel Mizonokuchi,2.0,6.0,54,Takatsu,126
+2465,384184992,Hotel Francs,3.5,10.0,63,CHIBA,203
+2468,381796352,JR Kyusyu Hotel Blossom Shinjuku,3.0,8.0,67,Yoyogi,80
